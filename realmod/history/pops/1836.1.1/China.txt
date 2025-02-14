@@ -22,187 +22,187 @@
 	aristocrats = {
 		culture = chinese
 		religion = mahayana
-		size = 19000
+		size = 190000
 	}
 
 	bureaucrats = {
 		culture = chinese
 		religion = mahayana
-		size = 4250
+		size = 42500
 	}
 
 	officers = {
 		culture = chinese
 		religion = mahayana
-		size = 3750
+		size = 37500
 	}
 
 	clergymen = {
 		culture = chinese
 		religion = mahayana
-		size = 9625
+		size = 96250
 	}
 
 	artisans = {
 		culture = chinese
 		religion = mahayana
-		size = 10000
+		size = 100000
 	}
 
 	artisans = {
 		culture = chinese
 		religion = mahayana
-		size = 10000
+		size = 100000
 	}
 
 	artisans = {
 		culture = chinese
 		religion = mahayana
-		size = 10000
+		size = 100000
 	}
 
 	artisans = {
 		culture = chinese
 		religion = mahayana
-		size = 10000
+		size = 100000
 	}
 
 	artisans = {
 		culture = chinese
 		religion = mahayana
-		size = 7950
+		size = 79500
 	}
 
 	soldiers = {
 		culture = chinese
 		religion = mahayana
-		size = 9100
+		size = 91000
 	}
 
 	farmers = {
 		culture = chinese
 		religion = mahayana
-		size = 864225
+		size = 8642250
 	}
 
 	aristocrats = {
 		culture = kazak
 		religion = sunni
-		size = 125
+		size = 1250
 	}
 
 	clergymen = {
 		culture = kazak
 		religion = sunni
-		size = 75
+		size = 750
 	}
 
 	artisans = {
 		culture = kazak
 		religion = sunni
-		size = 400
-	}
-
-	soldiers = {
-		culture = kazak
-		religion = sunni
-		size = 75
-	}
-
-	farmers = {
-		culture = kazak
-		religion = sunni
-		size = 7325
-	}
-
-	aristocrats = {
-		culture = chinese
-		religion = sunni
-		size = 1325
-	}
-
-	clergymen = {
-		culture = chinese
-		religion = sunni
-		size = 675
-	}
-
-	artisans = {
-		culture = chinese
-		religion = sunni
-		size = 3350
-	}
-
-	soldiers = {
-		culture = chinese
-		religion = sunni
-		size = 675
-	}
-
-	farmers = {
-		culture = chinese
-		religion = sunni
-		size = 60975
-	}
-
-	aristocrats = {
-		culture = chinese
-		religion = gelugpa
-		size = 9500
-	}
-
-	clergymen = {
-		culture = chinese
-		religion = gelugpa
-		size = 4800
-	}
-
-	artisans = {
-		culture = chinese
-		religion = gelugpa
-		size = 10000
-	}
-
-	artisans = {
-		culture = chinese
-		religion = gelugpa
-		size = 10000
-	}
-
-	artisans = {
-		culture = chinese
-		religion = gelugpa
 		size = 4000
 	}
 
 	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 750
+	}
+
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 73250
+	}
+
+	aristocrats = {
+		culture = chinese
+		religion = sunni
+		size = 13250
+	}
+
+	clergymen = {
+		culture = chinese
+		religion = sunni
+		size = 6750
+	}
+
+	artisans = {
+		culture = chinese
+		religion = sunni
+		size = 33500
+	}
+
+	soldiers = {
+		culture = chinese
+		religion = sunni
+		size = 6750
+	}
+
+	farmers = {
+		culture = chinese
+		religion = sunni
+		size = 609750
+	}
+
+	aristocrats = {
 		culture = chinese
 		religion = gelugpa
-		size = 4800
+		size = 95000
+	}
+
+	clergymen = {
+		culture = chinese
+		religion = gelugpa
+		size = 48000
+	}
+
+	artisans = {
+		culture = chinese
+		religion = gelugpa
+		size = 100000
+	}
+
+	artisans = {
+		culture = chinese
+		religion = gelugpa
+		size = 100000
+	}
+
+	artisans = {
+		culture = chinese
+		religion = gelugpa
+		size = 40000
+	}
+
+	soldiers = {
+		culture = chinese
+		religion = gelugpa
+		size = 48000
 	}
 
 	farmers = {
 		culture = chinese
 		religion = gelugpa
-		size = 434900
+		size = 4349000
 	}
 
 	bureaucrats = {
 		culture = manchu
 		religion = mahayana
-		size = 350
+		size = 3500
 	}
 
 	officers = {
 		culture = manchu
 		religion = mahayana
-		size = 250
+		size = 2500
 	}
 
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size = 500
+		size = 5000
 	}
 }
 #Gongchang (2256000/554000 POPS)
@@ -278,145 +278,145 @@
 	aristocrats = {
 		culture = chinese
 		religion = gelugpa
-		size = 1800
+		size = 18000
 	}
 
 	bureaucrats = {
 		culture = chinese
 		religion = gelugpa
-		size = 175
+		size = 1750
 	}
 
 	officers = {
 		culture = chinese
 		religion = gelugpa
-		size = 300
+		size = 3000
 	}
 
 	clergymen = {
 		culture = chinese
 		religion = gelugpa
-		size = 900
+		size = 9000
 	}
 
 	artisans = {
 		culture = chinese
 		religion = gelugpa
-		size = 4550
+		size = 45500
 	}
 
 	soldiers = {
 		culture = chinese
 		religion = gelugpa
-		size = 925
+		size = 9250
 	}
 
 	farmers = {
 		culture = chinese
 		religion = gelugpa
-		size = 82200
+		size = 822000
 	}
 
 	aristocrats = {
 		culture = kazak
 		religion = sunni
-		size = 25
+		size = 250
 	}
 
 	clergymen = {
 		culture = kazak
 		religion = sunni
-		size = 50
+		size = 500
 	}
 
 	artisans = {
 		culture = kazak
 		religion = sunni
-		size = 100
+		size = 1000
 	}
 
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size = 25
+		size = 250
 	}
 
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 1800
+		size = 18000
 	}
 
 	clergymen = {
 		culture = chinese
 		religion = sunni
-		size = 50
+		size = 500
 	}
 
 	artisans = {
 		culture = chinese
 		religion = sunni
-		size = 125
+		size = 1250
 	}
 
 	soldiers = {
 		culture = chinese
 		religion = sunni
-		size = 25
+		size = 250
 	}
 
 	farmers = {
 		culture = chinese
 		religion = sunni
-		size = 1800
+		size = 18000
 	}
 
 	aristocrats = {
 		culture = chinese
 		religion = gelugpa
-		size = 350
+		size = 3500
 	}
 
 	clergymen = {
 		culture = chinese
 		religion = gelugpa
-		size = 175
+		size = 1750
 	}
 
 	artisans = {
 		culture = chinese
 		religion = gelugpa
-		size = 900
+		size = 9000
 	}
 
 	soldiers = {
 		culture = chinese
 		religion = gelugpa
-		size = 175
+		size = 1750
 	}
 
 	farmers = {
 		culture = chinese
 		religion = gelugpa
-		size = 16400
+		size = 164000
 	}
 
 	bureaucrats = {
 		culture = manchu
 		religion = mahayana
-		size = 25
+		size = 250
 	}
 
 	officers = {
 		culture = manchu
 		religion = mahayana
-		size = 25
+		size = 250
 	}
 
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size = 100
+		size = 1000
 	}
 }
 #Balekungomi (364000/91000 POPS)
@@ -425,121 +425,121 @@
 	aristocrats = {
 		culture = chinese
 		religion = gelugpa
-		size = 700
+		size = 7000
 	}
 
 	clergymen = {
 		culture = chinese
 		religion = gelugpa
-		size = 400
+		size = 4000
 	}
 
 	artisans = {
 		culture = chinese
 		religion = gelugpa
-		size = 1900
+		size = 19000
 	}
 
 	soldiers = {
 		culture = chinese
 		religion = gelugpa
-		size = 400
+		size = 4000
 	}
 
 	farmers = {
 		culture = chinese
 		religion = gelugpa
-		size = 34600
+		size = 346000
 	}
 
 	aristocrats = {
 		culture = kazak
 		religion = sunni
-		size = 225
+		size = 2250
 	}
 
 	clergymen = {
 		culture = kazak
 		religion = sunni
-		size = 125
+		size = 1250
 	}
 
 	artisans = {
 		culture = kazak
 		religion = sunni
-		size = 600
+		size = 6000
 	}
 
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size = 125
+		size = 1250
 	}
 
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 10925
+		size = 109250
 	}
 
 	aristocrats = {
 		culture = kazak
 		religion = animist
-		size = 200
+		size = 2000
 	}
 
 	clergymen = {
 		culture = kazak
 		religion = animist
-		size = 100
+		size = 1000
 	}
 
 	artisans = {
 		culture = kazak
 		religion = animist
-		size = 550
+		size = 5500
 	}
 
 	soldiers = {
 		culture = kazak
 		religion = animist
-		size = 125
+		size = 1250
 	}
 
 	farmers = {
 		culture = kazak
 		religion = animist
-		size = 10025
+		size = 100250
 	}
 
 	aristocrats = {
 		culture = chinese
 		religion = gelugpa
-		size = 925
+		size = 9250
 	}
 
 	clergymen = {
 		culture = chinese
 		religion = gelugpa
-		size = 475
+		size = 4750
 	}
 
 	artisans = {
 		culture = chinese
 		religion = gelugpa
-		size = 2350
+		size = 23500
 	}
 
 	soldiers = {
 		culture = chinese
 		religion = gelugpa
-		size = 475
+		size = 4750
 	}
 
 	farmers = {
 		culture = chinese
 		religion = gelugpa
-		size = 42775
+		size = 427750
 	}
 }
 #Shaanxi Region (9100000)
