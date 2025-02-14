@@ -1,0 +1,8 @@
+owner = FLA
+controller = FLA
+add_core = FLA
+
+
+trade_goods = fish
+life_rating = 35
+   

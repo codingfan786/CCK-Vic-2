@@ -1,0 +1,8 @@
+owner = IRQ
+controller = IRQ
+add_core = AZB
+
+
+ 
+trade_goods = iron
+life_rating = 35

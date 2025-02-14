@@ -1,0 +1,15 @@
+owner = BRA
+controller = BRA
+add_core = BRA
+ 
+
+trade_goods = fruit
+life_rating = 36
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   

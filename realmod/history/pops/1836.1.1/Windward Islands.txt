@@ -1,0 +1,7 @@
+#Windward Islands Region - 188000
+#Barbados (100000/25000 POPS) #now independent
+#SKIPPED 2229
+#SKIPPED 2231
+#SKIPPED 2232
+#SKIPPED 2233
+#SKIPPED 2409

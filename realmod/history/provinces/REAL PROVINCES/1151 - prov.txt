@@ -1,0 +1,6 @@
+owner = ZAN
+controller = ZAN
+add_core = ZAN
+
+trade_goods = wool
+life_rating = 35

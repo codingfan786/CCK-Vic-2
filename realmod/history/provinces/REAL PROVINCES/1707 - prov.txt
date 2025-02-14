@@ -1,0 +1,9 @@
+
+
+
+
+trade_goods = dye
+life_rating = 32
+owner = JOD
+controller = JOD
+add_core = JOD

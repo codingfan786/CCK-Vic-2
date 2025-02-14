@@ -1,0 +1,7 @@
+#Cambodia Region (864000)
+#under the rule of Cambodia in 1836
+#Phnom Penh (468000/117000 POPS)
+#SKIPPED 1364
+#SKIPPED 1367
+#SKIPPED 1368
+#SKIPPED 1366

@@ -1,0 +1,12 @@
+#Falkland Islands (360)
+#Ruled by Britain 1836
+#Falkland Islands (300/75 POPS)
+#SKIPPED 2131
+19 = {
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 15
+	}
+
+}

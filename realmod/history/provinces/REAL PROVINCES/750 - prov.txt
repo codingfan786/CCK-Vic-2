@@ -1,0 +1,11 @@
+owner = POL
+controller = POL
+add_core = BRE
+
+trade_goods = grain
+life_rating = 36 
+
+ 
+ 
+ 
+   

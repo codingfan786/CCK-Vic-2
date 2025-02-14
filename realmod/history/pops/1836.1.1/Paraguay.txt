@@ -1,0 +1,10 @@
+#Chaco Region (16000) #see Argentina.txt for balance of region
+#Under loose authority of Paraguay 1836
+#Fortin Falcon (8000/2000 POPS)
+#SKIPPED 2337
+#SKIPPED 2338
+#SKIPPED 2339
+#SKIPPED 2340
+#SKIPPED 2341
+#SKIPPED 2342
+#SKIPPED 2343

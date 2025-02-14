@@ -1,0 +1,7 @@
+#Uruguay Region (200000)  
+#Under rule of Uruguay 1836
+#Montevideo (112000/28000 POPS)
+#SKIPPED 2344
+#SKIPPED 2345
+#SKIPPED 2346
+#SKIPPED 2347

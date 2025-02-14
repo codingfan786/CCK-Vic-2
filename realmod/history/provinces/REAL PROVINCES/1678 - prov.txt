@@ -1,0 +1,9 @@
+
+
+
+
+trade_goods = fruit
+life_rating = 32
+owner = JAI
+controller = JAI
+add_core = JAI

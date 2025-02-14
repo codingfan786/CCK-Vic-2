@@ -1,0 +1,5 @@
+owner = IRQ
+controller = IRQ
+add_core = AZB
+ 
+life_rating = 35

@@ -1,0 +1,8 @@
+
+
+
+trade_goods = tea
+life_rating = 32
+owner = HYD
+controller = HYD
+add_core = HYD

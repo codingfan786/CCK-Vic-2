@@ -1,0 +1,8 @@
+owner = HES
+controller = HES
+ 
+
+trade_goods = sulphur
+life_rating = 36 
+
+   

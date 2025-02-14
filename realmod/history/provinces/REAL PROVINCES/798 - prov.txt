@@ -1,0 +1,10 @@
+owner = POL
+controller = POL
+add_core = BRE
+
+
+
+
+trade_goods = coal
+life_rating = 35
+   

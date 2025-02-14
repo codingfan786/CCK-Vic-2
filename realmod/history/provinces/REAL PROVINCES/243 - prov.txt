@@ -1,0 +1,8 @@
+owner = FLA
+controller = FLA
+add_core = FLA
+
+
+trade_goods = iron
+life_rating = 35
+   

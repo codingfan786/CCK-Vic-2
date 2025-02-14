@@ -1,0 +1,8 @@
+owner = IRQ
+controller = IRQ
+add_core = PER
+
+
+
+trade_goods = coal
+life_rating = 35

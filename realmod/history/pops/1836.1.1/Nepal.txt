@@ -1,0 +1,199 @@
+#Himalaya Region (952000) #see Bhutan.txt and India.txt for balance of region
+#under the rule of Nepal in 1836  
+#Katmandu (540000/135000 POPS)   
+1765 = {
+	aristocrats = {
+		culture = indian
+		religion = hindu
+		size = 2000
+	}
+
+	bureaucrats = {
+		culture = indian
+		religion = hindu
+		size = 175
+	}
+
+	officers = {
+		culture = indian
+		religion = hindu
+		size = 225
+	}
+
+	clergymen = {
+		culture = indian
+		religion = hindu
+		size = 1100
+	}
+
+	artisans = {
+		culture = indian
+		religion = hindu
+		size = 4050
+	}
+
+	soldiers = {
+		culture = indian
+		religion = hindu
+		size = 7000
+	}
+
+	farmers = {
+		culture = indian
+		religion = hindu
+		size = 86250
+	}
+
+	aristocrats = {
+		culture = indian
+		religion = gelugpa
+		size = 200
+	}
+
+	clergymen = {
+		culture = indian
+		religion = gelugpa
+		size = 100
+	}
+
+	artisans = {
+		culture = indian
+		religion = gelugpa
+		size = 475
+	}
+
+	soldiers = {
+		culture = indian
+		religion = gelugpa
+		size = 100
+	}
+
+	farmers = {
+		culture = indian
+		religion = gelugpa
+		size = 10125
+	}
+
+	aristocrats = {
+		culture = indian
+		religion = animist
+		size = 400
+	}
+
+	clergymen = {
+		culture = indian
+		religion = animist
+		size = 225
+	}
+
+	artisans = {
+		culture = indian
+		religion = animist
+		size = 1050
+	}
+
+	soldiers = {
+		culture = indian
+		religion = animist
+		size = 200
+	}
+
+	farmers = {
+		culture = indian
+		religion = animist
+		size = 21125
+	}
+}
+#Jumla (412000/103000 POPS)   
+1739 = {
+	aristocrats = {
+		culture = indian
+		religion = hindu
+		size = 900
+	}
+
+	clergymen = {
+		culture = indian
+		religion = hindu
+		size = 450
+	}
+
+	artisans = {
+		culture = indian
+		religion = hindu
+		size = 2300
+	}
+
+	soldiers = {
+		culture = indian
+		religion = hindu
+		size = 1100
+	}
+
+	farmers = {
+		culture = indian
+		religion = hindu
+		size = 49250
+	}
+
+	aristocrats = {
+		culture = indian
+		religion = gelugpa
+		size = 700
+	}
+
+	clergymen = {
+		culture = indian
+		religion = gelugpa
+		size = 375
+	}
+
+	artisans = {
+		culture = indian
+		religion = gelugpa
+		size = 1850
+	}
+
+	soldiers = {
+		culture = indian
+		religion = gelugpa
+		size = 350
+	}
+
+	farmers = {
+		culture = indian
+		religion = gelugpa
+		size = 33725
+	}
+
+	aristocrats = {
+		culture = indian
+		religion = animist
+		size = 350
+	}
+
+	clergymen = {
+		culture = indian
+		religion = animist
+		size = 200
+	}
+
+	artisans = {
+		culture = indian
+		religion = animist
+		size = 950
+	}
+
+	soldiers = {
+		culture = indian
+		religion = animist
+		size = 200
+	}
+
+	farmers = {
+		culture = indian
+		religion = animist
+		size = 18300
+	}
+}
+

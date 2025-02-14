@@ -1,0 +1,9 @@
+#Laos Region (700000) 
+#under the rule of Luang Prabang in 1836  
+#Louangprabang (240000/60000 POPS) #asian_minor = hmong/montagnard  
+#SKIPPED 1356
+#SKIPPED 1357
+#SKIPPED 1361
+#SKIPPED 1362
+#SKIPPED 1360
+#SKIPPED 1363

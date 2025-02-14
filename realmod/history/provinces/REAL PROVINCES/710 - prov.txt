@@ -1,0 +1,10 @@
+owner = SLO
+controller = SLO
+add_core = SLO
+
+
+
+
+trade_goods = cotton
+life_rating = 35
+   

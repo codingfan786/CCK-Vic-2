@@ -1,0 +1,135 @@
+#Outer Mongolia Region (1292000) 
+#under the rule of China in 1836  
+#Ugra (376000/94000 POPS)   
+#SKIPPED 1465
+#SKIPPED 1466
+#SKIPPED 1467
+#SKIPPED 1468
+#SKIPPED 2207
+1796 = {
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 750
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 375
+	}
+
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 1500
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 375
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 35000
+	}
+}
+#Bulgan (84000/21000 POPS)   
+#SKIPPED 2678
+1784 = {
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 350
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 175
+	}
+
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 900
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 175
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 16400
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 600
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 125
+	}
+
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 10975
+	}
+}
+#Uliatai (32000/8000 POPS) #now Tuva Republic of Russia  Tatar = Tuvan   
+1792 = {
+	aristocrats = {
+		culture = tatar
+		religion = gelugpa
+		size = 150
+	}
+
+	clergymen = {
+		culture = tatar
+		religion = gelugpa
+		size = 75
+	}
+
+	artisans = {
+		culture = tatar
+		religion = gelugpa
+		size = 400
+	}
+
+	soldiers = {
+		culture = tatar
+		religion = gelugpa
+		size = 75
+	}
+
+	farmers = {
+		culture = tatar
+		religion = gelugpa
+		size = 7300
+	}
+
+}

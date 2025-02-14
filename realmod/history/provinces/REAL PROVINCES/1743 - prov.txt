@@ -1,0 +1,9 @@
+owner = KAS
+controller = KAS
+add_core = KAS
+
+
+
+
+trade_goods = tobacco
+life_rating = 32

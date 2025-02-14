@@ -1,0 +1,56 @@
+
+#vassal = {
+#	first = CHI
+#	second = KOR
+#	start_date = 1836.1.1
+#	end_date = 1895.5.17 #Treaty of Shimonoseki
+#}
+
+vassal = {
+	first = FRA
+	second = FLA
+	start_date = 1773.1.1
+	end_date = 2000.10.30
+}
+
+vassal = {
+	first = FRA
+	second = IRE
+	start_date = 1773.1.1
+	end_date = 2000.10.30
+}
+
+substate = {
+	first = SPA
+	second = CAT
+	start_date = 1773.1.1
+	end_date = 2000.10.30
+}
+
+vassal = {
+	first = SPA
+	second = POR
+	start_date = 1773.1.1
+	end_date = 2000.10.30
+}
+
+vassal = {
+	first = SIC
+	second = PAP
+	start_date = 1773.1.1
+	end_date = 2000.10.30
+}
+
+vassal = {
+	first = PRU
+	second = ORA
+	start_date = 1773.1.1
+	end_date = 2000.10.30
+}
+
+substate = {
+	first = NOR
+	second = SWE
+	start_date = 1773.1.1
+	end_date = 2000.10.30
+}

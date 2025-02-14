@@ -1,0 +1,10 @@
+owner = TUR
+controller = TUR
+add_core = ABU
+
+
+
+trade_goods = iron
+life_rating = 35
+
+ 

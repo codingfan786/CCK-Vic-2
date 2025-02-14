@@ -1,0 +1,10 @@
+owner = SER
+controller = SER
+add_core = SER
+add_core = BOS
+
+
+
+
+trade_goods = fish
+life_rating = 35

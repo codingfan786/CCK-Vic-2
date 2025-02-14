@@ -1,0 +1,29 @@
+political_decisions = {
+
+	startup = {
+		potential = {
+			NOT = {has_global_flag = startedup}
+			ai = yes
+		}
+		allow = {}
+		effect = {
+			set_global_flag = startedup
+
+			all_provinces_scope = {
+				limit = {
+					life_rating = 10
+				}
+				any_pop = {
+					#reduce_pop = 0.1 #doesnt work...
+				}
+			}
+
+			any_country = {
+				leadership = 60
+				treasury = 100000
+			}
+
+		}
+	}
+
+}

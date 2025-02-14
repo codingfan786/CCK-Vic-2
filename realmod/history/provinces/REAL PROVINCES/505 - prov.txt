@@ -1,0 +1,10 @@
+owner = OLD
+controller = OLD
+add_core = OLD
+
+
+
+trade_goods = grain
+life_rating = 36 
+
+   

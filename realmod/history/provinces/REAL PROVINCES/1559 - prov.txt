@@ -1,0 +1,7 @@
+owner = RUS
+controller = RUS
+colonial = 1
+
+
+trade_goods = wool
+life_rating = 35

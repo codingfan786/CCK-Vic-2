@@ -1,0 +1,593 @@
+#Anhui Region (35244000)
+#under the rule of China in 1836
+#Anqing (5472000/1368000 POPS)
+#SKIPPED 1470
+#SKIPPED 1471
+#SKIPPED 1472
+#SKIPPED 1473
+#SKIPPED 1474
+#SKIPPED 1475
+#SKIPPED 1476
+#SKIPPED 1477
+#SKIPPED 1478
+#SKIPPED 1479
+#SKIPPED 1480
+#SKIPPED 1481
+#SKIPPED 1482
+#SKIPPED 1483
+#SKIPPED 1484
+#SKIPPED 1486
+#SKIPPED 1487
+1810 = {
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 19000
+	}
+
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 4250
+	}
+
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 3750
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 9625
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 7950
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 9100
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 864225
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 125
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 400
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 75
+	}
+
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 7325
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 1325
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 675
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 3350
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 675
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 60975
+	}
+
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 9500
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 4800
+	}
+
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 10000
+	}
+
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 10000
+	}
+
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 4000
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 4800
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 434900
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 350
+	}
+
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 250
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 500
+	}
+}
+#Gongchang (2256000/554000 POPS)
+#SKIPPED 1489
+#SKIPPED 1490
+#SKIPPED 1491
+#SKIPPED 1492
+#SKIPPED 1493
+#SKIPPED 1494
+#SKIPPED 1495
+#SKIPPED 1496
+#SKIPPED 1497
+#SKIPPED 1499
+#SKIPPED 1500
+#SKIPPED 1501
+#SKIPPED 1498
+#SKIPPED 1502
+#SKIPPED 1503
+#SKIPPED 1504
+#SKIPPED 1505
+#SKIPPED 1506
+#SKIPPED 1507
+#SKIPPED 1508
+#SKIPPED 1509
+#SKIPPED 1510
+#SKIPPED 1511
+#SKIPPED 1512
+#SKIPPED 1513
+#SKIPPED 1514
+#SKIPPED 1515
+#SKIPPED 1516
+#SKIPPED 1517
+#SKIPPED 1518
+#SKIPPED 1519
+#SKIPPED 1520
+#SKIPPED 1521
+#SKIPPED 1522
+#SKIPPED 1523
+#SKIPPED 1524
+#SKIPPED 1525
+#SKIPPED 1526
+#SKIPPED 1527
+#SKIPPED 1528
+#SKIPPED 1529
+#SKIPPED 1530
+#SKIPPED 1532
+#SKIPPED 1533
+#SKIPPED 1534
+#SKIPPED 1535
+#SKIPPED 2221
+#SKIPPED 1536
+#SKIPPED 1537
+#SKIPPED 1538
+#SKIPPED 1539
+#SKIPPED 1540
+#SKIPPED 1541
+#SKIPPED 1542
+#SKIPPED 1543
+#SKIPPED 1544
+#SKIPPED 1545
+#SKIPPED 1546
+#SKIPPED 1547
+#SKIPPED 1548
+#SKIPPED 1549
+#SKIPPED 1550
+#SKIPPED 1551
+#SKIPPED 1552
+#SKIPPED 1553
+#SKIPPED 1554
+#SKIPPED 1555
+#SKIPPED 1002
+1801 = {
+	aristocrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 1800
+	}
+
+	bureaucrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 175
+	}
+
+	officers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 300
+	}
+
+	clergymen = {
+		culture = tibetan
+		religion = gelugpa
+		size = 900
+	}
+
+	artisans = {
+		culture = tibetan
+		religion = gelugpa
+		size = 4550
+	}
+
+	soldiers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 925
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 82200
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 1800
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 125
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 1800
+	}
+
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 350
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 175
+	}
+
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 900
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 175
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 16400
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 25
+	}
+
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 25
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 100
+	}
+}
+#Balekungomi (364000/91000 POPS)
+#SKIPPED 1557
+1795 = {
+	aristocrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 700
+	}
+
+	clergymen = {
+		culture = tibetan
+		religion = gelugpa
+		size = 400
+	}
+
+	artisans = {
+		culture = tibetan
+		religion = gelugpa
+		size = 1900
+	}
+
+	soldiers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 400
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 34600
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 125
+	}
+
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 600
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 125
+	}
+
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 10925
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = animist
+		size = 200
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = kazak
+		religion = animist
+		size = 550
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = animist
+		size = 125
+	}
+
+	farmers = {
+		culture = kazak
+		religion = animist
+		size = 10025
+	}
+
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 925
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 475
+	}
+
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 2350
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 475
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 42775
+	}
+}
+#Shaanxi Region (9100000)
+#under the rule of China in 1836
+#Xian (3168000/792000 POPS)
+#SKIPPED 1559
+#SKIPPED 1561
+#SKIPPED 1562
+#SKIPPED 2062
+#SKIPPED 1563
+#SKIPPED 1564
+#SKIPPED 1565
+#SKIPPED 1566
+#SKIPPED 1567
+#SKIPPED 1568
+#SKIPPED 1569
+#SKIPPED 1570
+#SKIPPED 1571
+#SKIPPED 1572
+#SKIPPED 1573
+#SKIPPED 1574
+#SKIPPED 1575
+#SKIPPED 1576
+#SKIPPED 1577
+#SKIPPED 1578
+#SKIPPED 1579
+#SKIPPED 1580
+#SKIPPED 1581
+#SKIPPED 1582
+#SKIPPED 1583
+#SKIPPED 1584
+#SKIPPED 1585
+#SKIPPED 1586
+#SKIPPED 1601
+#SKIPPED 1602
+#SKIPPED 1603
+#SKIPPED 1604
+#SKIPPED 1605
+#SKIPPED 1606
+#SKIPPED 1607
+#SKIPPED 1608
+#SKIPPED 1609
+#SKIPPED 1610
+#SKIPPED 1611
+#SKIPPED 1612
+#SKIPPED 1613
+#SKIPPED 1614
+#SKIPPED 1615
+#SKIPPED 1616
+#SKIPPED 1617
+#SKIPPED 1618

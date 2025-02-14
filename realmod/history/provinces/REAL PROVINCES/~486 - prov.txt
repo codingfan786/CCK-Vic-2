@@ -1,0 +1,8 @@
+owner = SWI
+controller = SWI
+ 
+trade_goods = iron
+life_rating = 36 
+
+ 
+   

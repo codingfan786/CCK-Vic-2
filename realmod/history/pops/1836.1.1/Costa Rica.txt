@@ -1,0 +1,6 @@
+#Costa Rica Region (84000)
+#Ruled by Central America 1836
+#San Jose (52000/13000 POPS)
+#SKIPPED 2201
+#SKIPPED 2202
+#SKIPPED 2203

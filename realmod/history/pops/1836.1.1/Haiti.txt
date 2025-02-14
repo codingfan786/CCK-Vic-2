@@ -1,0 +1,5 @@
+#Hispanola Region (516000) #see Dominican Republic.txt for balance of region
+#Ruled by Haiti 1836
+#Port au Prince (312000/78000 POPS)
+#SKIPPED 2213
+#SKIPPED 2215

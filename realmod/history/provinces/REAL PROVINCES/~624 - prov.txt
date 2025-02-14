@@ -1,0 +1,10 @@
+owner = BAV
+controller = BAV
+ 
+
+trade_goods = coal
+life_rating = 36 
+
+# 
+# 
+ 

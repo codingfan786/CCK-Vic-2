@@ -1,0 +1,117 @@
+#Pegu Region (1336000)
+#Under rule of Burma 1836
+#Rangoon (344000/86000 POPS)
+#SKIPPED 1330
+#SKIPPED 1331
+#SKIPPED 1332
+#SKIPPED 1333
+#SKIPPED 1334
+#SKIPPED 1335
+#SKIPPED 1336
+#SKIPPED 1337
+#SKIPPED 1338
+#SKIPPED 1340
+#SKIPPED 1339
+#SKIPPED 1341
+#SKIPPED 1342
+#SKIPPED 1343
+#SKIPPED 1344
+1812 = {
+	bureaucrats = {
+		culture = indian
+		religion = catholic
+		size = 10
+	}
+
+	aristocrats = {
+		culture = indian
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = indian
+		religion = catholic
+		size = 125
+	}
+
+	artisans = {
+		culture = indian
+		religion = catholic
+		size = 2750
+	}
+
+	soldiers = {
+		culture = indian
+		religion = catholic
+		size = 150
+	}
+
+	farmers = {
+		culture = indian
+		religion = catholic
+		size = 11875
+	}
+
+	aristocrats = {
+		culture = indian
+		religion = catholic
+		size = 250
+	}
+
+	bureaucrats = {
+		culture = indian
+		religion = catholic
+		size = 50
+	}
+
+	clergymen = {
+		culture = indian
+		religion = catholic
+		size = 375
+	}
+
+	artisans = {
+		culture = indian
+		religion = catholic
+		size = 6250
+	}
+
+	soldiers = {
+		culture = indian
+		religion = catholic
+		size = 250
+	}
+
+	farmers = {
+		culture = indian
+		religion = catholic
+		size = 18825
+	}
+
+	clergymen = { 
+		culture = indian #Chin
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = indian
+		religion = catholic
+		size = 950
+	}
+
+	clergymen = {
+		culture = indian
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = indian
+		religion = catholic
+		size = 1950
+	}
+
+}
+
