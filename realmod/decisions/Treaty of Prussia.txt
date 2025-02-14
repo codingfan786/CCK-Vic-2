@@ -1,0 +1,75 @@
+political_decisions = {
+
+	treaty_offer = {
+		potential = {
+			NOT = {has_global_flag = prussia_treaty}
+			OR = {
+				tag = PRU
+				tag = POL
+			}
+		}
+		allow = {
+			PRU = {
+				owns = 812
+				owns = 831
+			}
+			POL = {
+				owns = 926
+				owns = 875
+				owns = 830
+			}
+			ai = no
+		}
+		effect = {
+			set_global_flag = prussia_treaty
+			812 = {
+				remove_core = POL
+				any_pop = {
+					limit = {
+						has_pop_culture = polish
+					}
+					move_pop = 875
+				}
+			}
+			831 = {
+				remove_core = POL
+				any_pop = {
+					limit = {
+						has_pop_culture = polish
+					}
+					move_pop = 926
+				}
+			}
+			926 = {
+				remove_core = PRU
+				any_pop = {
+					limit = {
+						has_pop_culture = north_german
+					}
+					move_pop = 831
+				}
+			}
+			875 = {
+				remove_core = PRU
+				any_pop = {
+					limit = {
+						has_pop_culture = north_german
+					}
+					move_pop = 812
+				}
+			}
+			830 = {
+				remove_core = PRU
+				any_pop = {
+					limit = {
+						has_pop_culture = north_german
+					}
+					move_pop = 831
+				}
+			}
+
+		}
+	}
+
+
+}

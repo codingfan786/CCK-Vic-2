@@ -45,19 +45,19 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 500
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 6450
 	}
@@ -131,19 +131,19 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 50
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 1925
 	}
@@ -199,19 +199,19 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 300
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 7650
 	}
@@ -269,19 +269,19 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 50
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 4900
 	}
@@ -387,19 +387,19 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 50
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 1925
 	}
@@ -475,49 +475,49 @@
 	}
 
 	aristocrats = {
-		culture = albanian
+		culture = greek
 		religion = sunni
 		size = 2600
 	}
 
 	clergymen = {
-		culture = albanian
+		culture = greek
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = albanian
+		culture = greek
 		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = albanian
+		culture = greek
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = albanian
+		culture = greek
 		religion = sunni
 		size = 8075
 	}
 
 	clergymen = {
-		culture = albanian
+		culture = greek
 		religion = orthodox
 		size = 150
 	}
 
 	artisans = {
-		culture = albanian
+		culture = greek
 		religion = orthodox
 		size = 250
 	}
 
 	farmers = {
-		culture = albanian
+		culture = greek
 		religion = orthodox
 		size = 25600
 	}
@@ -745,13 +745,13 @@
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 50
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 950
 	}
@@ -807,19 +807,19 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 50
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 1925
 	}
@@ -1586,3 +1586,13 @@
 	}
 
 }
+
+
+
+1046	=	{	capitalists = { culture = 	greek	religion = catholic size = 	0	}	aristocrats = { culture = 	greek	religion = catholic size = 	662.647023505997	}	officers = { culture = 	greek	religion = catholic size = 	74.4923476304393	}	bureaucrats = { culture = 	greek	religion = catholic size = 	0	}	clergymen = { culture = 	greek	religion = catholic size = 	336.181987600867	}	soldiers = { culture = 	greek	religion = catholic size = 	664.329026913038	}	farmers = { culture = 	greek	religion = catholic size = 	33013.2544754539	}	artisans = { culture = 	greek	religion = catholic size = 	1379.32761077536	}	craftsmen = { culture = 	greek	religion = catholic size = 	0	}}
+1064	=	{	capitalists = { culture = 	greek	religion = catholic size = 	0	}	aristocrats = { culture = 	greek	religion = catholic size = 	724.279017362278	}	officers = { culture = 	greek	religion = catholic size = 	53.595354052959	}	bureaucrats = { culture = 	greek	religion = catholic size = 	0	}	clergymen = { culture = 	greek	religion = catholic size = 	534.801720001269	}	soldiers = { culture = 	greek	religion = catholic size = 	1683.30634754966	}	farmers = { culture = 	greek	religion = catholic size = 	55278.6393058021	}	artisans = { culture = 	greek	religion = catholic size = 	1424.66921563027	}	craftsmen = { culture = 	greek	religion = catholic size = 	0	}}
+1079	=	{	capitalists = { culture = 	greek	religion = catholic size = 	0	}	aristocrats = { culture = 	greek	religion = catholic size = 	466.987298626918	}	officers = { culture = 	greek	religion = catholic size = 	58.8777509343345	}	bureaucrats = { culture = 	greek	religion = catholic size = 	0	}	clergymen = { culture = 	greek	religion = catholic size = 	526.794021076057	}	soldiers = { culture = 	greek	religion = catholic size = 	1293.31374962931	}	farmers = { culture = 	greek	religion = catholic size = 	45107.745650271	}	artisans = { culture = 	greek	religion = catholic size = 	3125.7950674626	}	craftsmen = { culture = 	greek	religion = catholic size = 	0	}}
+1056	=	{	capitalists = { culture = 	greek	religion = catholic size = 	0	}	aristocrats = { culture = 	greek	religion = catholic size = 	344.940502254758	}	officers = { culture = 	greek	religion = catholic size = 	69.9018207902554	}	bureaucrats = { culture = 	greek	religion = catholic size = 	0	}	clergymen = { culture = 	greek	religion = catholic size = 	409.570897871163	}	soldiers = { culture = 	greek	religion = catholic size = 	1136.19546973496	}	farmers = { culture = 	greek	religion = catholic size = 	30399.2235300597	}	artisans = { culture = 	greek	religion = catholic size = 	2175.84809608525	}	craftsmen = { culture = 	greek	religion = catholic size = 	0	}}
+1081	=	{	capitalists = { culture = 	greek	religion = catholic size = 	0	}	aristocrats = { culture = 	greek	religion = catholic size = 	554.181654530112	}	officers = { culture = 	greek	religion = catholic size = 	45.6751741410699	}	bureaucrats = { culture = 	greek	religion = catholic size = 	0	}	clergymen = { culture = 	greek	religion = catholic size = 	612.087907094974	}	soldiers = { culture = 	greek	religion = catholic size = 	729.459434951423	}	farmers = { culture = 	greek	religion = catholic size = 	25461.7778151762	}	artisans = { culture = 	greek	religion = catholic size = 	3155.09585110704	}	craftsmen = { culture = 	greek	religion = catholic size = 	0	}}
+
+

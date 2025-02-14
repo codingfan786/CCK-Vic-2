@@ -223,55 +223,55 @@
 	}
 
 	aristocrats = {
-		culture = south_german
+		culture = central_german
 		religion = catholic
 		size = 1300 
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = central_german
 		religion = catholic
 		size = 1250
 	}
 
 	artisans = {
-		culture = south_german
+		culture = central_german
 		religion = catholic
 		size = 6250
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = central_german
 		religion = catholic
 		size = 1250 
 	}
 
 	farmers = {
-		culture = south_german
+		culture = central_german
 		religion = catholic
 		size = 114950 
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = central_german
 		religion = jewish
 		size = 50 
 	}
 
 	artisans = {
-		culture = south_german
+		culture = central_german
 		religion = jewish
 		size = 2000
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = central_german
 		religion = jewish
 		size = 25 
 	}
 
 	farmers = {
-		culture = south_german
+		culture = central_german
 		religion = jewish
 		size = 925  
 	}
@@ -303,31 +303,31 @@
 	}
 
 	aristocrats = {
-		culture = south_german
+		culture = central_german
 		religion = catholic
 		size = 650  
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = central_german
 		religion = catholic
 		size = 575
 	}
 
 	artisans = {
-		culture = south_german
+		culture = central_german
 		religion = catholic
 		size = 2950
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = central_german
 		religion = catholic
 		size = 1100 
 	}
 
 	farmers = {
-		culture = south_german
+		culture = central_german
 		religion = catholic
 		size = 53825
 	}
@@ -355,7 +355,7 @@
 	farmers = {
 		culture = czech
 		religion = catholic
-		size = 93100 
+		size = 33100 
 	}
 
 	aristocrats = {
@@ -385,7 +385,7 @@
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 58850   
+		size = 118850   
 	}
 
 	clergymen = {
@@ -719,43 +719,43 @@
 	}
 
 	aristocrats = {
-		culture = south_german
+		culture = central_german
 		religion = catholic
 		size = 250  
 	}
 
 	officers = {
-		culture = south_german
+		culture = central_german
 		religion = catholic
 		size = 50 
 	}
 
 	bureaucrats = {
-		culture = south_german
+		culture = central_german
 		religion = catholic
 		size = 140 
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = central_german
 		religion = catholic
 		size = 200  
 	}
 
 	artisans = {
-		culture = south_german
+		culture = central_german
 		religion = catholic
 		size = 1550
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = central_german
 		religion = catholic
 		size = 200  
 	}
 
 	farmers = {
-		culture = south_german
+		culture = central_german
 		religion = catholic
 		size = 17610   
 	}

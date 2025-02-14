@@ -772,31 +772,31 @@
 	}
 
 	aristocrats = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 18850
 	}
@@ -860,43 +860,43 @@
 	}
 
 	aristocrats = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 500
 	}
 
 	officers = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 1250
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 19975
 	}
@@ -904,31 +904,31 @@
 #Logrono (158000/39500 POPS)
 242 = {
 	aristocrats = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 850
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 400
 	}
 
 	artisans = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 400
 	}
 
 	farmers = {
-		culture = spanish
+		culture = basque
 		religion = catholic
 		size = 35850
 	}
@@ -938,49 +938,49 @@
 #Zaragosa (312000/78000 POPS)
 267 = {
 	aristocrats = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 1600
 	}
 
 	officers = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 300
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 750
 	}
 
 	artisans = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 57100
 	}
@@ -1000,31 +1000,31 @@
 #Huesca (224000/56000 POPS)
 285 = {
 	aristocrats = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 450
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 1850
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 400
 	}
 
 	farmers = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 35450
 	}
@@ -1062,7 +1062,7 @@
 #Teruel (228000/57000 POPS)
 266 = {
 	aristocrats = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 1200
 		militancy = 8
@@ -1070,7 +1070,7 @@
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 550
 		militancy = 8
@@ -1078,7 +1078,7 @@
 	}
 
 	artisans = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 2750
 		militancy = 8
@@ -1086,7 +1086,7 @@
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 1100
 		militancy = 8
@@ -1094,7 +1094,7 @@
 	}
 
 	farmers = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 51500
 		militancy = 8
@@ -1166,43 +1166,43 @@
 	}
 
 	aristocrats = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 500
 	}
 
 	officers = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 9000
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 300
 	}
 
 	farmers = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 16125
 	}
@@ -1242,31 +1242,31 @@
 	}
 
 	aristocrats = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 450
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 18600
 	}
@@ -1314,31 +1314,31 @@
 	}
 
 	aristocrats = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 1250
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 11275
 	}
@@ -1384,7 +1384,7 @@
 	}
 
 	aristocrats = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 450
 		militancy = 8
@@ -1392,7 +1392,7 @@
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 200
 		militancy = 8
@@ -1400,19 +1400,19 @@
 	}
 
 	artisans = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 17650
 	}
@@ -1450,31 +1450,31 @@
 	}
 
 	aristocrats = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 200
 	}
 
 	labourers = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 15900
 	}

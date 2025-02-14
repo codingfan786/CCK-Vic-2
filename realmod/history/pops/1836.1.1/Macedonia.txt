@@ -33,19 +33,19 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 425
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 2100
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 56475
 	}
@@ -91,19 +91,19 @@
 #Bitola (268000/67000 POPS) 
 896 = {
 	clergymen = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 300
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 425
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 36275
 	}
@@ -151,25 +151,25 @@
 	}
 
 	clergymen = {
-		culture = albanian
+		culture = greek
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = albanian
+		culture = greek
 		religion = sunni
 		size = 400
 	}
 
 	soldiers = {
-		culture = albanian
+		culture = greek
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = albanian
+		culture = greek
 		religion = sunni
 		size = 12275
 	}

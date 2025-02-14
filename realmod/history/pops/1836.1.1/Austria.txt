@@ -79,31 +79,31 @@
 #Bregenz (132000/33000 POPS)
 578 = {
 	aristocrats = {
-		culture = south_german
+		culture = sudwest_german
 		religion = catholic
 		size = 400 
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = sudwest_german
 		religion = catholic
 		size = 300 
 	}
 
 	artisans = {
-		culture = south_german
+		culture = sudwest_german
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = sudwest_german
 		religion = catholic
 		size = 1100 
 	}
 
 	farmers = {
-		culture = south_german
+		culture = sudwest_german
 		religion = catholic
 		size = 29700
 	}
@@ -251,25 +251,25 @@
 	}
 
 	clergymen = {
-		culture = slovene
+		culture = serb
 		religion = catholic
 		size = 175 
 	}
 
 	artisans = {
-		culture = slovene
+		culture = serb
 		religion = catholic
 		size = 950
 	}
 
 	soldiers = {
-		culture = slovene
+		culture = serb
 		religion = catholic
 		size = 200 
 	}
 
 	farmers = {
-		culture = slovene
+		culture = serb
 		religion = catholic
 		size = 16675 
 	}

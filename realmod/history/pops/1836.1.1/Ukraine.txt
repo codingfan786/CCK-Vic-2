@@ -211,25 +211,25 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 50 
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 75
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 25 
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 2850
 	}
@@ -311,25 +311,25 @@
 	}
 
 	clergymen = {
-		culture = slovak
+		culture = czech
 		religion = catholic
 		size = 150 
 	}
 
 	artisans = {
-		culture = slovak
+		culture = czech
 		religion = catholic
 		size = 850
 	}
 
 	soldiers = {
-		culture = slovak
+		culture = czech
 		religion = catholic
 		size = 175 
 	}
 
 	farmers = {
-		culture = slovak
+		culture = czech
 		religion = catholic
 		size = 15825
 	}
@@ -1885,43 +1885,43 @@
 #Simferopol (126000/29000 POPS)
 1211 = {
 	aristocrats = {
-		culture = tatar
+		culture = kazak
 		religion = sunni
 		size = 550
 	}
 
 	bureaucrats = {
-		culture = tatar
+		culture = kazak
 		religion = sunni
 		size = 75
 	}
 
 	officers = {
-		culture = tatar
+		culture = kazak
 		religion = sunni
 		size = 40
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = kazak
 		religion = sunni
 		size = 200
 	}
 
 	artisans = {
-		culture = tatar
+		culture = kazak
 		religion = sunni
 		size = 950
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = kazak
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = tatar
+		culture = kazak
 		religion = sunni
 		size = 18185
 	}
@@ -2073,31 +2073,31 @@
 	}
 
 	aristocrats = {
-		culture = tatar
+		culture = kazak
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = kazak
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = tatar
+		culture = kazak
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = kazak
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = tatar
+		culture = kazak
 		religion = sunni
 		size = 4575
 	}
@@ -2181,25 +2181,25 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 100
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 25
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = greek
 		religion = orthodox
 		size = 2825
 	}
@@ -2231,31 +2231,31 @@
 #Kerch (48000/12000 POPS)
 1275 = {
 	aristocrats = {
-		culture = tatar
+		culture = kazak
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = kazak
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = tatar
+		culture = kazak
 		religion = sunni
 		size = 175
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = kazak
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = tatar
+		culture = kazak
 		religion = sunni
 		size = 7950
 	}
@@ -2335,31 +2335,31 @@
 #Sevastopol (60000/15000 POPS)
 1232 = {
 	aristocrats = {
-		culture = tatar
+		culture = kazak
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = kazak
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = tatar
+		culture = kazak
 		religion = sunni
 		size = 175
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = kazak
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = tatar
+		culture = kazak
 		religion = sunni
 		size = 9375
 	}

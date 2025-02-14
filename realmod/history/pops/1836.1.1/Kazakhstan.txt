@@ -441,31 +441,31 @@
 	}
 
 	aristocrats = {
-		culture = uighur
+		culture = chinese
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = uighur
+		culture = chinese
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = uighur
+		culture = chinese
 		religion = sunni
 		size = 550
 	}
 
 	soldiers = {
-		culture = uighur
+		culture = chinese
 		religion = sunni
 		size = 125
 	}
 
 	farmers = {
-		culture = uighur
+		culture = chinese
 		religion = sunni
 		size = 10025
 	}
@@ -474,31 +474,31 @@
 #Alma-Ata (88000/22000 POPS)
 1665 = {
 	aristocrats = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 300
 	}
 
 	soldiers = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 5475
 	}
@@ -538,31 +538,31 @@
 #Kyzylorda (108000/27000 POPS)
 1586 = {
 	aristocrats = {
-		culture = uzbek
+		culture = kazak
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = uzbek
+		culture = kazak
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = uzbek
+		culture = kazak
 		religion = sunni
 		size = 700
 	}
 
 	soldiers = {
-		culture = uzbek
+		culture = kazak
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = uzbek
+		culture = kazak
 		religion = sunni
 		size = 12775
 	}
@@ -666,31 +666,31 @@
 #Shymkent (180000/45000 POPS) #now part of Kazakhstan   
 1600 = {
 	aristocrats = {
-		culture = uzbek
+		culture = kazak
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = uzbek
+		culture = kazak
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = uzbek
+		culture = kazak
 		religion = sunni
 		size = 750
 	}
 
 	soldiers = {
-		culture = uzbek
+		culture = kazak
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = uzbek
+		culture = kazak
 		religion = sunni
 		size = 13725
 	}

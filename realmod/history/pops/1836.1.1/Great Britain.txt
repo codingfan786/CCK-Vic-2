@@ -2,37 +2,37 @@
 #Aberdeen (172000/43000 POPS)
 223 = {
 	farmers = {
-		culture = british
+		culture = scottish
 		religion = catholic
 		size = 2000
 	}
 
 	aristocrats = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 100
 	}
 
 	officers = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 500
 	}
 
 	soldiers = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 1100
 	}
 
 	artisans = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 8400
 	}
 
 	labourers = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 31000
 	}
@@ -40,31 +40,31 @@
 #Inverness (328000/82000 POPS)
 148 = {
 	aristocrats = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 200
 	}
 
 	clergymen = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 2000
 	}
 
 	artisans = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 4000
 	}
 
 	farmers = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 75550
 	}
@@ -72,31 +72,31 @@
 #Dundee (364000/91000 POPS)
 209 = {
 	aristocrats = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 300
 	}
 
 	bureaucrats = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 500
 	}
 
 	artisans = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 8000
 	}
 
 	soldiers = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 78200
 	}
@@ -106,91 +106,91 @@
 #Edinburgh (480000/120000 POPS)
 230 = {
 	aristocrats = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 500
 	}
 
 	officers = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 1100
 	}
 
 	clergymen = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 375
 	}
 
 	capitalists = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 550
 	}
 
 	bureaucrats = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 1100
 	}
 
 	clerks = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 400
 	}
 
 	craftsmen = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 4000
 	}
 
 	artisans = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 10000
 	}
 
 	artisans = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 6000
 	}
 
 	soldiers = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 57175
 	}
 
 	clergymen = {
-		culture = british
+		culture = scottish
 		religion = catholic
 		size = 100
 	}
 
 	craftsmen = {
-		culture = british
+		culture = scottish
 		religion = catholic
 		size = 1500
 	}
 
 	artisans = {
-		culture = british
+		culture = scottish
 		religion = catholic
 		size = 5000
 	}
 
 	farmers = {
-		culture = british
+		culture = scottish
 		religion = catholic
 		size = 26400
 	}
@@ -204,37 +204,37 @@
 #Stirling (364000/91000 POPS)
 171 = {
 	aristocrats = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 200
 	}
 
 	clergymen = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 200
 	}
 
 	artisans = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 6500
 	}
 
 	soldiers = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 1100
 	}
 
 	farmers = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 79100
 	}
 
 	farmers = {
-		culture = british
+		culture = scottish
 		religion = catholic
 		size = 4000
 	}
@@ -242,67 +242,67 @@
 #Glasgow (620000/155000 POPS)
 192 = {
 	aristocrats = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 500
 	}
 
 	clergymen = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 500
 	}
 
 	clerks = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 850
 	}
 
 	craftsmen = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 11500
 	}
 
 	artisans = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 10000
 	}
 
 	artisans = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 10000
 	}
 
 	artisans = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 2000
 	}
 
 	soldiers = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 4000
 	}
 
 	farmers = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 87650
 	}
 
 	clergymen = {
-		culture = british
+		culture = scottish
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = british
+		culture = scottish
 		religion = catholic
 		size = 4900
 	}
@@ -328,31 +328,31 @@
 #Dumfries (168000/42000 POPS) 
 212 = {
 	aristocrats = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 100
 	}
 
 	clergymen = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 4000
 	}
 
 	farmers = {
-		culture = british
+		culture = scottish
 		religion = protestant
 		size = 33800
 	}
 
 	farmers = {
-		culture = british
+		culture = scottish
 		religion = catholic
 		size = 5000
 	}
@@ -362,61 +362,61 @@
 #Cardiff (380000/95000 POPS)
 220 = {
 	aristocrats = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 500
 	}
 
 	capitalists = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 625
 	}
 
 	officers = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 350
 	}
 
 	clergymen = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 375
 	}
 
 	clerks = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 50
 	}
 
 	craftsmen = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 1100
 	}
 
 	artisans = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 3500
 	}
 
 	soldiers = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 1100
 	}
 
 	labourers = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 88000
 	}
@@ -424,31 +424,31 @@
 #Cardigan (168000/42000 POPS)
 194 = {
 	aristocrats = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 250
 	}
 
 	clergymen = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 125
 	}
 
 	soldiers = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 1100
 	}
 
 	artisans = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 38625
 	}
@@ -456,31 +456,31 @@
 #Llandrindod (182000/45500 POPS)
 226 = {
 	aristocrats = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 250
 	}
 
 	clergymen = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 500
 	}
 
 	artisans = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 2250
 	}
 
 	farmers = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 42250
 	}
@@ -488,43 +488,43 @@
 #Holyhead (240000/60000 POPS)
 205 = {
 	aristocrats = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 250
 	}
 
 	clergymen = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 750
 	}
 
 	clerks = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 150
 	}
 
 	craftsmen = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 3000
 	}
 
 	artisans = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 3100
 	}
 
 	farmers = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 52500
 	}
@@ -1111,31 +1111,31 @@
 #Shrewsbury (316000/79000 POPS)
 243 = {
 	aristocrats = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 500
 	}
 
 	clergymen = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 375
 	}
 
 	artisans = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 8250
 	}
 
 	soldiers = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 1100
 	}
 
 	labourers = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 68875
 	}
@@ -1623,37 +1623,37 @@
 #Bath (408000/102000 POPS)
 225 = {
 	aristocrats = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 750
 	}
 
 	clergymen = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 625
 	}
 
 	artisans = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 10000
 	}
 
 	artisans = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 5000
 	}
 
 	soldiers = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 1100
 	}
 
 	labourers = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 84625
 	}
@@ -1661,43 +1661,43 @@
 #Plymouth (812000/203000 POPS)
 179 = {
 	aristocrats = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 1500
 	}
 
 	clergymen = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 1250
 	}
 
 	artisans = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 10000
 	}
 
 	artisans = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 500
 	}
 
 	soldiers = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 1500
 	}
 
 	labourers = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 186250
 	}
 
 	farmers = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 1100
 	}
