@@ -1,4 +1,4 @@
-capital = 29
+capital = 1391
 primary_culture = georgian
 religion = orthodox
 government = absolute_monarchy

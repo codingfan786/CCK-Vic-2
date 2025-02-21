@@ -1,4 +1,6 @@
 
+colonial = 2
+
 
 
 trade_goods = tea

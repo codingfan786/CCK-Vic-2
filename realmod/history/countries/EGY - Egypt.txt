@@ -1,5 +1,5 @@
-capital = 29
-primary_culture = misri
+capital = 1175
+primary_culture = north_african
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

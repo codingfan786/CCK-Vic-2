@@ -7,8 +7,14 @@ demote_migrant = yes
 
 rebel =
 {
-	infantry = 0.5
-	irregular = 0.5
+	cavalry = 0
+	artillery = 0.5
+	cuirassier = 0
+	dragoon = 0
+	guard = 0
+	hussar = 0.1
+	infantry = 0.4
+	irregular = 0
 }
 
 administrative_efficiency = yes

@@ -1,5 +1,5 @@
-owner = ORA
-controller = ORA
+owner = NET
+controller = NET
 add_core = ORA
 
  

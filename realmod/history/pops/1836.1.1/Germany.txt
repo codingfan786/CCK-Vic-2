@@ -2,6 +2,16 @@
 #Under rule of Holstein 1836
 #Kiel (256000/64000 POPS)
 547 = {
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
 	aristocrats = {
 		culture = north_german
 		religion = protestant
@@ -29,7 +39,7 @@
 	artisans = {
 		culture = north_german
 		religion = protestant
-		size = 2400
+		size = 10000
 	}
 
 	soldiers = {
@@ -106,6 +116,16 @@
 }
 #Lauenburg (148000/37000 POPS)
 593 = {
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
 	aristocrats = {
 		culture = north_german
 		religion = protestant
@@ -140,6 +160,16 @@
 #Under rule of Hamburg 1836
 #Hamburg (160000/40000 POPS)
 572 = {
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
 	aristocrats = {
 		culture = north_german
 		religion = protestant
@@ -336,7 +366,7 @@
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 2395 
+		size = 82395 
 	}
 
 	artisans = {
@@ -349,6 +379,56 @@
 		culture = north_german
 		religion = catholic
 		size = 200 
+	}
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
 	}
 }
 #under the Rule of Mecklenburg 1836 
@@ -393,7 +473,7 @@
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 109800 
+		size = 49800 
 	}
 
 	clergymen = {
@@ -406,6 +486,16 @@
 		culture = north_german
 		religion = jewish
 		size = 975
+	}
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
 	}
 }
 #Neustrelitz (90000/22500 POPS)
@@ -444,6 +534,12 @@
 #under the rule of Hannover 1836
 #Hannover (420000/105000 POPS)
 556 = {
+	craftsmen = {
+		culture = north_german
+		religion = protestant
+		size = 21000 
+	}
+
 	aristocrats = {
 		culture = north_german
 		religion = protestant
@@ -1152,6 +1248,12 @@
 #under the rule of Prussia 1836
 #Berlin (772000/193000 POPS)
 670 = {
+	craftsmen = {
+		culture = north_german
+		religion = protestant
+		size = 21000 
+	}
+
 	aristocrats = {
 		culture = north_german
 		religion = protestant
@@ -1769,6 +1871,12 @@
 #under the rule of Saxony 1836  
 #Dresden (679000/169750 POPS)
 694 = {
+	craftsmen = {
+		culture = central_german
+		religion = protestant
+		size = 21000 
+	}
+
 	aristocrats = {
 		culture = central_german
 		religion = protestant
@@ -2228,6 +2336,12 @@
 #under the rule of Nassau 1836  
 #Wiesbaden (402400/100600 POPS)
 503 = {
+	craftsmen = {
+		culture = dutch
+		religion = protestant
+		size = 21000 
+	}
+
 	aristocrats = {
 		culture = dutch
 		religion = protestant
@@ -2754,6 +2868,11 @@
 #under the rule of Prussia 1836  
 #Trier (220000/55000 POPS)
 459 = {
+	craftsmen = {
+		culture = dutch
+		religion = catholic
+		size = 10000
+	}
 	aristocrats = {
 		culture = dutch
 		religion = protestant
@@ -2828,6 +2947,11 @@
 }
 #Saarbrucken (308000/77000 POPS)
 467 = {
+	craftsmen = {
+		culture = dutch
+		religion = catholic
+		size = 20000
+	}
 	aristocrats = {
 		culture = dutch
 		religion = protestant
@@ -2908,6 +3032,11 @@
 }
 #Kreuznach (228000/57000 POPS)
 481 = {
+	craftsmen = {
+		culture = dutch
+		religion = catholic
+		size = 10000
+	}
 	aristocrats = {
 		culture = dutch
 		religion = protestant
@@ -2972,6 +3101,11 @@
 #under the rule of Prussia in 1836  
 #Cologne (484000/121000 POPS)
 466 = {
+	craftsmen = {
+		culture = dutch
+		religion = catholic
+		size = 20000
+	}
 	aristocrats = {
 		culture = dutch
 		religion = catholic
@@ -3064,6 +3198,11 @@
 }
 #Aachen (400000/100000 POPS)
 455 = {
+	craftsmen = {
+		culture = dutch
+		religion = catholic
+		size = 10000
+	}
 	aristocrats = {
 		culture = dutch
 		religion = catholic
@@ -3108,6 +3247,11 @@
 }
 #Kleves (356000/89000 POPS)
 456 = {
+	craftsmen = {
+		culture = dutch
+		religion = catholic
+		size = 10000
+	}
 	aristocrats = {
 		culture = dutch
 		religion = catholic
@@ -3948,6 +4092,12 @@
 #under the rule of Wurttemburg in 1836  
 #Stuttgart (676000/169000 POPS)
 557 = {
+	craftsmen = {
+		culture = sudwest_german
+		religion = protestant
+		size = 21000 
+	}
+
 	aristocrats = {
 		culture = sudwest_german
 		religion = protestant
@@ -4392,6 +4542,12 @@
 }
 #Bayreuth (536000/134000 POPS)
 612 = {
+	craftsmen = {
+		culture = central_german
+		religion = protestant
+		size = 21000 
+	}
+
 	aristocrats = {
 		culture = central_german
 		religion = catholic
@@ -4450,6 +4606,12 @@
 #under the rule of Bavaria in 1836  
 #Munich (960000/220000 POPS)
 624 = {
+	craftsmen = {
+		culture = south_german
+		religion = protestant
+		size = 21000 
+	}
+	
 	aristocrats = {
 		culture = south_german
 		religion = catholic
@@ -4830,6 +4992,27 @@
 		religion = protestant
 		size = 5650
 	}
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
+
 }
 #Gumbinnen (228000/57000 POPS) #now part of Russia 
 926 = {

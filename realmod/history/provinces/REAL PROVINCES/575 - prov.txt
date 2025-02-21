@@ -1,6 +1,7 @@
-owner = BRA
-controller = BRA
-add_core = BRA
+owner = OLD
+controller = OLD
+add_core = OLD
+
 
 
 trade_goods = grain

@@ -1,4 +1,5 @@
-
+owner = PRU
+colonial = 2
 
 
 trade_goods = fish

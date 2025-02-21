@@ -1,200 +1,197 @@
+army = {
+	name = "Army" #done
+	location = 655
+	
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 655
+	}
 
- 
- 
- 
- 
- 
- 
- 
- 
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 629
+	}
 
- 
- 
- 
- 
- 
- 
- 
- 
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 654
+	}
 
- 
- 
- 
- 
- 
- 
- 
- 
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 696
+	}
 
- 
- 
- 
- 
- 
- 
- 
- 
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 689
+	}
 
- 
- 
- 
- 
- 
- 
- 
- 
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 757
+	}
 
- 
- 
- 
- 
- 
- 
- 
- 
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 729
+	}
 
- 
- 
- 
- 
- 
- 
- 
- 
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 643
+	}
 
- 
- 
- 
- 
- 
- 
- 
- 
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 722
+	}
 
- 
- 
- 
- 
- 
- 
- 
- 
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 760
+	}
+}
 
- 
- 
- 
- 
- 
+army = {
+	name = "Army" #done
+	location = 813
+	
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 813
+	}
 
- 
- 
- 
- 
- 
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 813
+	}
 
- 
- 
- 
- 
- 
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 796
+	}
 
- 
- 
- 
- 
- 
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 668
+	}
 
- 
- 
- 
- 
- 
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 740
+	}
 
- 
- 
- 
- 
- 
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 758
+	}
+}
 
- 
- 
- 
- 
- 
+navy = {
+	name = "Transport Navy"
+	location = 813
 
- 
- 
- 
- 
- 
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+}
 
- 
- 
- 
- 
- 
+navy = {
+	name = "Transport Navy"
+	location = 813
 
- 
-
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
-
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+}

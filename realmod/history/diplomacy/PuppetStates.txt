@@ -8,14 +8,14 @@
 
 vassal = {
 	first = FRA
-	second = FLA
+	second = IRE
 	start_date = 1773.1.1
 	end_date = 2000.10.30
 }
 
-vassal = {
-	first = FRA
-	second = IRE
+substate = {
+	first = ENG
+	second = FLA
 	start_date = 1773.1.1
 	end_date = 2000.10.30
 }
@@ -41,12 +41,7 @@ vassal = {
 	end_date = 2000.10.30
 }
 
-vassal = {
-	first = PRU
-	second = ORA
-	start_date = 1773.1.1
-	end_date = 2000.10.30
-}
+
 
 substate = {
 	first = NOR
@@ -54,3 +49,50 @@ substate = {
 	start_date = 1773.1.1
 	end_date = 2000.10.30
 }
+
+
+substate = {
+	first = AUS
+	second = WUR
+	start_date = 1773.1.1
+	end_date = 2000.10.30
+}
+substate = {
+	first = AUS
+	second = FRM
+	start_date = 1773.1.1
+	end_date = 2000.10.30
+}
+substate = {
+	first = AUS
+	second = WEI
+	start_date = 1773.1.1
+	end_date = 2000.10.30
+}
+substate = {
+	first = AUS
+	second = BAD
+	start_date = 1773.1.1
+	end_date = 2000.10.30
+}
+substate = {
+	first = AUS
+	second = OLD
+	start_date = 1773.1.1
+	end_date = 2000.10.30
+}
+substate = {
+	first = AUS
+	second = HAN
+	start_date = 1773.1.1
+	end_date = 2000.10.30
+}
+
+
+#substate = {
+#	first = PRU
+#	second = FIN
+#	start_date = 1773.1.1
+#	end_date = 2000.10.30
+#}
+

@@ -1,6 +1,6 @@
-owner = WEI
-controller = WEI
-add_core = WEI
+owner = FRM
+controller = FRM
+add_core = FRM
 trade_goods = iron
 life_rating = 36 
 

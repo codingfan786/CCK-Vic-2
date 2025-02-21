@@ -686,13 +686,167 @@
 	aristocrats = {
 		culture = serb
 		religion = catholic
-		size = 400
+		size = 1200
 	}
 
 	clergymen = {
 		culture = serb
 		religion = catholic
-		size = 350
+		size = 1050
+	}
+
+	artisans = {
+		culture = serb
+		religion = catholic
+		size = 6000
+	}
+
+	soldiers = {
+		culture = serb
+		religion = catholic
+		size = 1050
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 103050
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = serb
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = catholic
+		size = 75
+	}
+
+	farmers = {
+		culture = serb
+		religion = catholic
+		size = 1350
+	}
+}
+#Zadar (128000/32000 POPS)
+745 = {
+	aristocrats = {
+		culture = serb
+		religion = catholic
+		size = 1000
+	}
+
+	bureaucrats = {
+		culture = serb
+		religion = catholic
+		size = 400
+	}
+
+	officers = {
+		culture = serb
+		religion = catholic
+		size = 300
+	}
+
+	clergymen = {
+		culture = serb
+		religion = catholic
+		size = 900
+	}
+
+	artisans = {
+		culture = serb
+		religion = catholic
+		size = 2400
+	}
+
+	soldiers = {
+		culture = serb
+		religion = catholic
+		size = 900
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 82100
+	}
+
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic
+		size = 300
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = catholic
+		size = 300
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 2800
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = serb
+		religion = catholic
+		size = 8500
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 300
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 1200
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 300
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 26200
+	}
+}
+#Dubrovnik (52000/13000 POPS)
+791 = {
+	aristocrats = {
+		culture = serb
+		religion = catholic
+		size = 300
+	}
+
+	clergymen = {
+		culture = serb
+		religion = catholic
+		size = 400
 	}
 
 	artisans = {
@@ -704,221 +858,67 @@
 	soldiers = {
 		culture = serb
 		religion = catholic
-		size = 350
-	}
-
-	farmers = {
-		culture = north_italian
-		religion = catholic
-		size = 34350
-	}
-
-	clergymen = {
-		culture = north_italian
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = serb
-		religion = catholic
-		size = 500
-	}
-
-	soldiers = {
-		culture = north_italian
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = serb
-		religion = catholic
-		size = 450
-	}
-}
-#Zadar (128000/32000 POPS)
-745 = {
-	aristocrats = {
-		culture = serb
-		religion = catholic
-		size = 250
-	}
-
-	bureaucrats = {
-		culture = serb
-		religion = catholic
-		size = 100
-	}
-
-	officers = {
-		culture = serb
-		religion = catholic
-		size = 75
-	}
-
-	clergymen = {
-		culture = serb
-		religion = catholic
-		size = 225
-	}
-
-	artisans = {
-		culture = serb
-		religion = catholic
-		size = 600
-	}
-
-	soldiers = {
-		culture = serb
-		religion = catholic
-		size = 225
-	}
-
-	farmers = {
-		culture = north_italian
-		religion = catholic
-		size = 20525
-	}
-
-	bureaucrats = {
-		culture = north_italian
-		religion = catholic
-		size = 75
-	}
-
-	clergymen = {
-		culture = north_italian
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = north_italian
-		religion = catholic
-		size = 700
-	}
-
-	soldiers = {
-		culture = north_italian
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = serb
-		religion = catholic
-		size = 2125
-	}
-
-	clergymen = {
-		culture = serb
-		religion = orthodox
-		size = 75
-	}
-
-	artisans = {
-		culture = serb
-		religion = orthodox
-		size = 300
-	}
-
-	soldiers = {
-		culture = serb
-		religion = orthodox
-		size = 75
-	}
-
-	farmers = {
-		culture = serb
-		religion = orthodox
-		size = 6550
-	}
-}
-#Dubrovnik (52000/13000 POPS)
-791 = {
-	aristocrats = {
-		culture = serb
-		religion = catholic
-		size = 75
-	}
-
-	clergymen = {
-		culture = serb
-		religion = catholic
-		size = 100
-	}
-
-	artisans = {
-		culture = serb
-		religion = catholic
-		size = 500
-	}
-
-	soldiers = {
-		culture = serb
-		religion = catholic
-		size = 100
-	}
-
-	farmers = {
-		culture = north_italian
-		religion = catholic
-		size = 9225
-	}
-
-	aristocrats = {
-		culture = north_italian
-		religion = catholic
-		size = 50
-	}
-
-	clergymen = {
-		culture = north_italian
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = serb
-		religion = catholic
-		size = 500
-	}
-
-	soldiers = {
-		culture = north_italian
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = serb
-		religion = catholic
 		size = 400
 	}
 
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 36900
+	}
+
+	aristocrats = {
+		culture = north_italian
+		religion = catholic
+		size = 200
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = serb
+		religion = catholic
+		size = 2000
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = serb
+		religion = catholic
+		size = 1600
+	}
+
 	clergymen = {
 		culture = serb
 		religion = orthodox
-		size = 50
+		size = 200
 	}
 
 	artisans = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 400
 	}
 
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 25
+		size = 100
 	}
 
 	farmers = {
 		culture = serb
 		religion = orthodox
-		size = 1825
+		size = 7300
 	}
 
 }

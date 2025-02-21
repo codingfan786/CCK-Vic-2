@@ -1,0 +1,140 @@
+province_event = {
+	id = 1337003
+	title = "China!"
+	desc = "Provinces under rebel occupation dont gain militancy and this needs to fix that."
+	picture = "Unite"
+
+	trigger = {
+		NOT = {has_global_flag = china_done}
+		owner = {tag = CHI}
+		NOT = {controlled_by = CHI}
+		any_pop = {
+			NOT = {
+				militancy = 9
+			}
+		}
+	}
+	
+	immediate = {
+		any_pop = {
+			militancy = 10
+		}
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "If you're not china then this is a bug!"
+	}
+}
+
+country_event = {
+	id = 1337004
+	title = "China Wakes!"
+	desc = "eventdesc1337004"
+
+	trigger = {
+		NOT = {has_global_flag = china_done}
+		NOT = {has_country_flag = china_alert}
+		CHI = {
+			any_owned_province = {
+				controlled_by = REB
+				any_neighbor_province = {
+					controlled_by = REB
+				}
+			}
+		}
+	}
+
+	immediate = {
+		set_country_flag = china_alert
+	}
+
+	option = {
+		name = "We must stop these madmen immediately!"
+	}
+}
+
+country_event = {
+	id = 1337005
+	title = "Stirrings in China..."
+	desc = "A Confucian sect has formed dedicated to the worship of death!"
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = CHI
+		NOT = {has_global_flag = china_done}
+		year = 1855
+	}
+
+	immediate = {
+		remove_country_modifier = china_timebomb_coming
+
+		add_country_modifier = {
+			name = china_timebomb
+			duration = -1
+		}
+		REB = {
+			activate_technology = post_napoleonic_thought
+			activate_technology = flintlock_rifles
+			activate_technology = bronze_muzzle_loaded_artillery
+			activate_technology = military_staff_system
+			activate_technology = army_command_principle
+			activate_technology = military_plans
+			activate_technology = army_professionalism
+		}
+			
+
+		#add some stuff like rebel techs, some forts maybe or something, idk, move speed debuff in china continent, tweak the rebel unit types to just be better, etc. Spread out chinese pops? Definitely necessary
+	}
+
+	option = {
+		name = "This will go nowhere."
+	}
+}
+
+country_event = {
+	id = 1337006
+	title = "The European Wall of China"
+	desc = "Our grand European alliance has beaten back the hordes of Confucian cultists and established a great wall along China's western border to hold back the barbarians."
+
+	is_triggered_only = yes
+
+	immediate = {
+		prestige = 10
+		add_country_modifier = {
+			name = european_wall_of_china
+			duration = 7300
+		}
+	}
+
+	option = {
+		name = "This is a grand accomplishment!"
+	}
+}
+
+country_event = {
+	id = 1337007
+	title = "Stirrings in China..."
+	desc = "A Confucian sect has formed dedicated to the worship of death!"
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = CHI
+		always = no
+		NOT = {has_global_flag = china_done}
+		year = 1870
+	}
+
+	immediate = {
+		CHI = {inherit = CHI}
+	}
+
+	option = {
+		name = "This will go nowhere."
+	}
+}

@@ -1,0 +1,60 @@
+country_event = {
+	id = 1337002 
+	title = "The Treaty of Prussia"
+	desc = "eventdesc1337002"
+	is_triggered_only = yes
+    
+	option = {
+		name = "This will ensure regional peace and stability."
+		prestige = 10
+		PRU = {prestige = 10}
+		812 = {
+			remove_core = POL
+			any_pop = {
+				limit = {
+					has_pop_culture = polish
+				}
+				move_pop = 875
+			}
+		}
+		831 = {
+			remove_core = POL
+			any_pop = {
+				limit = {
+					has_pop_culture = polish
+				}
+				move_pop = 926
+			}
+		}
+		926 = {
+			remove_core = PRU
+			any_pop = {
+				limit = {
+					has_pop_culture = north_german
+				}
+				move_pop = 831
+			}
+		}
+		875 = {
+			remove_core = PRU
+			any_pop = {
+				limit = {
+					has_pop_culture = north_german
+				}
+				move_pop = 812
+			}
+		}
+		830 = {
+			remove_core = PRU
+			any_pop = {
+				limit = {
+					has_pop_culture = north_german
+				}
+				move_pop = 831
+			}
+		}
+	}
+	option = {
+		name = "We reject this outrageous offer!"
+	}
+}

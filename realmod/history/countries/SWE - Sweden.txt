@@ -1,25 +1,23 @@
-capital = 29
+capital = 813
 primary_culture = swedish
-culture = finnish
-culture = norwegian
 culture = sami
 religion = protestant
-government = hms_government
+government = prussian_constitutionalism
 plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.8
 civilized = yes
-prestige = 15
+prestige = 0
 
 # Political reforms
-slavery = no_slavery
-upper_house_composition = state_equal_weight
+slavery = yes_slavery
+upper_house_composition = appointed
 vote_franschise = landed_voting
 public_meetings = yes_meeting
-press_rights = state_press
+press_rights = censored_press
 trade_unions = no_trade_unions
 voting_system = first_past_the_post
-political_parties = non_secret_ballots
+political_parties = underground_parties
 
 # Social Reforms
 wage_reform = no_minimum_wage

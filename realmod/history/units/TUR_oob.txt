@@ -1,566 +1,308 @@
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
+army = {
+	name = "Army" #done
+	location = 1246
+	
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 1246
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 1246
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 1246
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 1283
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 1283
+	}
+
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 1283
+	}
+
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 1346
+	}
+
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 1346
+	}
+
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 1314
+	}
+
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 1254
+	}
+}
+
+army = {
+	name = "Army" #done
+	location = 1170
+	
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 1170
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 1170
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 1170
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 1170
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 1180
+	}
+
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 1180
+	}
+
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 1180
+	}
+
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 1180
+	}
+
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 1126
+	}
+
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 1098
+	}
+}
+
+navy = {
+	name = "Navy"
+	location = 1291
+
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+}
+
+navy = {
+	name = "Navy"
+	location = 1291
+
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+}
+
+navy = {
+	name = "Transport Navy"
+	location = 1291
+
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+}
 

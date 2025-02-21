@@ -2,8 +2,9 @@ owner = ENG
 controller = ENG
 add_core = ENG
 
-
-trade_goods = coal
+naval_base = 1
+#trade_goods = coal
+trade_goods = fish
 life_rating = 35
  
    

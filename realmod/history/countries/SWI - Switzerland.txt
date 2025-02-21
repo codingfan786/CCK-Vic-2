@@ -1,5 +1,5 @@
-capital = 29
-primary_culture = swiss
+capital = 486
+primary_culture = sudwest_german
 religion = protestant
 government = democracy
 plurality = 25.0

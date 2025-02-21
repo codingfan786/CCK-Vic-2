@@ -1,0 +1,31 @@
+political_decisions = {
+	
+	king_of_scots = {
+		potential = {
+			OR = {
+				tag = ENG
+				tag = NOR
+			}
+			NOT = {
+				accepted_culture = scottish
+			}
+		}
+		allow = {
+			state_n_government = 1
+			owns = 223
+			owns = 209
+			owns = 230
+		}
+		effect = {
+			add_accepted_culture = scottish
+
+			ENG_271 = {
+				add_core = THIS
+			}
+			ENG_266 = {
+				add_core = THIS
+			}
+		}
+	} 
+
+}

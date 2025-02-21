@@ -170,6 +170,16 @@
 #Schleswig Region : 336000
 #Flensburg (236000/59000 POPS)
 526 = {
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
 	bureaucrats = {
 		culture = danish
 		religion = protestant
@@ -244,6 +254,16 @@
 }
 #Aabenra (100000/25000 POPS)
 538 = {
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
 	clergymen = {
 		culture = danish
 		religion = protestant
@@ -366,6 +386,16 @@
 		culture = north_german
 		religion = protestant
 		size = 1100
+	}
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 10000
 	}
 }
 #Odense (208000/52000 POPS)

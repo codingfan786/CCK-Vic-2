@@ -8,12 +8,12 @@ demote_migrant = yes
 rebel =
 {
 	cavalry = 0
-	artillery = 0.1
+	artillery = 0.5
 	cuirassier = 0
 	dragoon = 0
-	guard = 0.3
-	hussar = 0
-	infantry = 0.6
+	guard = 0.4
+	hussar = 0.1
+	infantry = 0
 	irregular = 0
 }
 

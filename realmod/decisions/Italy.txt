@@ -1,0 +1,264 @@
+political_decisions = {
+	
+	sif_form = {
+		picture = form_italy
+		potential = {
+			this_culture_union = ITA
+			NOT = {exists = SIF}
+			NOT = {exists = ITA}
+			NOT = {primary_culture = north_italian}
+		}
+		allow = {
+			war = no
+			ITA = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+						owner = {
+							vassal_of = THIS
+						}
+						AND = {
+							NOT = {culture = central_italian}
+							NOT = {culture = south_italian}
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			prestige = 15
+			any_country = {
+				limit = {
+					OR = {
+						primary_culture = south_italian
+						primary_culture = central_italian
+					}
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			ITA = {
+				all_core = {
+					limit = {
+						OR = {
+							culture = central_italian
+							culture = south_italian
+						}
+					}
+					add_core = SIF
+				}
+			}
+			all_core = {add_core = SIF}
+			change_tag = SIF
+			add_accepted_culture = central_italian
+			add_accepted_culture = south_italian
+		}
+	}
+
+
+	ita_form = {
+		picture = italia_irredenta
+		potential = {
+			this_culture_union = ITA
+			NOT = {exists = ITA}
+		}
+		allow = {
+			ITA = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+						owner = {
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			prestige = 30
+			any_country = {
+				limit = {
+					OR = {
+						primary_culture = north_italian
+						primary_culture = south_italian
+						primary_culture = central_italian
+					}
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			all_core = {add_core = ITA}
+			change_tag = ITA
+			add_accepted_culture = north_italian
+			add_accepted_culture = central_italian
+			add_accepted_culture = south_italian
+
+			set_country_flag = temp #to hide the following
+			random_owned = {
+				limit = {
+					THIS = {has_country_flag = temp}
+					SIC = {
+						exists = no
+					}
+				}
+				SIC = {
+					all_core = {
+						remove_core = SIC
+					}
+				}
+			}
+			random_owned = {
+				limit = {
+					THIS = {has_country_flag = temp}
+					PAP = {
+						exists = no
+					}
+				}
+				PAP = {
+					all_core = {
+						remove_core = PAP
+					}
+				}
+			}
+			random_owned = {
+				limit = {
+					THIS = {has_country_flag = temp}
+					TUS = {
+						exists = no
+					}
+				}
+				TUS = {
+					all_core = {
+						remove_core = TUS
+					}
+				}
+			}
+			random_owned = {
+				limit = {
+					THIS = {has_country_flag = temp}
+					TRE = {
+						exists = no
+					}
+				}
+				TRE = {
+					all_core = {
+						remove_core = TRE
+					}
+				}
+			}
+			random_owned = {
+				limit = {
+					THIS = {has_country_flag = temp}
+					LUC = {
+						exists = no
+					}
+				}
+				LUC = {
+					all_core = {
+						remove_core = LUC
+					}
+				}
+			}
+			random_owned = {
+				limit = {
+					THIS = {has_country_flag = temp}
+					MOD = {
+						exists = no
+					}
+				}
+				MOD = {
+					all_core = {
+						remove_core = MOD
+					}
+				}
+			}
+			random_owned = {
+				limit = {
+					THIS = {has_country_flag = temp}
+					PAR = {
+						exists = no
+					}
+				}
+				PAR = {
+					all_core = {
+						remove_core = PAR
+					}
+				}
+			}
+			random_owned = {
+				limit = {
+					THIS = {has_country_flag = temp}
+					LOM = {
+						exists = no
+					}
+				}
+				LOM = {
+					all_core = {
+						remove_core = LOM
+					}
+				}
+			}
+			random_owned = {
+				limit = {
+					THIS = {has_country_flag = temp}
+					SAR = {
+						exists = no
+					}
+				}
+				SAR = {
+					all_core = {
+						remove_core = SAR
+					}
+				}
+			}
+			random_owned = {
+				limit = {
+					THIS = {has_country_flag = temp}
+					VEN = {
+						exists = no
+					}
+				}
+				VEN = {
+					all_core = {
+						remove_core = VEN
+					}
+				}
+			}
+			random_owned = {
+				limit = {
+					THIS = {has_country_flag = temp}
+					SIF = {
+						exists = no
+					}
+				}
+				SIF = {
+					all_core = {
+						remove_core = SIF
+					}
+				}
+			}
+
+			clr_country_flag = temp
+		}
+	}
+	
+
+}

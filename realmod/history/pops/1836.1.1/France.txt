@@ -354,7 +354,7 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 671
+		size = 4671
 	}
 
 	farmers = {
@@ -386,7 +386,7 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 671
+		size = 4671
 	}
 
 	farmers = {
@@ -1200,7 +1200,7 @@
 	soldiers = {
 		culture = brittan
 		religion = catholic
-		size = 915
+		size = 4915
 	}
 
 	farmers = {
@@ -1486,7 +1486,7 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 2440
+		size = 11440
 	}
 
 	farmers = {
@@ -1523,12 +1523,6 @@
 		culture = french
 		religion = jewish
 		size = 1372.5
-	}
-
-	soldiers = {
-		culture = french
-		religion = jewish
-		size = 30.5
 	}
 }
 #Chartres (284000/71000 POPS)
@@ -1632,7 +1626,7 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 671
+		size = 4671
 	}
 
 	farmers = {
@@ -2006,7 +2000,7 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 671
+		size = 4671
 	}
 
 	farmers = {
@@ -2180,7 +2174,7 @@
 	soldiers = {
 		culture = brittan
 		religion = catholic
-		size = 457.5
+		size = 4457.5
 	}
 
 	farmers = {
@@ -2832,7 +2826,7 @@
 	soldiers = {
 		culture = basque
 		religion = catholic
-		size = 976
+		size = 4976
 	}
 
 	farmers = {

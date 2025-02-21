@@ -1,6 +1,5 @@
 capital = 29
-primary_culture = afro_american
-culture = kru
+primary_culture = african
 religion = protestant
 government = democracy
 plurality = 0.0

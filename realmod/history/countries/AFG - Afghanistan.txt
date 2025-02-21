@@ -1,6 +1,5 @@
-capital = 29
+capital = 1618
 primary_culture = pashtun
-culture = tajik
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

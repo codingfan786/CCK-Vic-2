@@ -1,0 +1,19 @@
+# Triggered modifiers are here.
+# these are checked for each countries once/month and then applied.
+#
+# Effects are fully scriptable here.
+HRE_GP_NERF = {
+	trigger = {
+		has_country_flag = HRE_PUPPET
+		is_vassal = yes
+	}
+	supply_consumption = -0.8
+}
+
+unciv_diplo = {
+	trigger = {
+		civilized = no
+		ai = yes
+	}
+	diplomatic_points_modifier = -100
+}

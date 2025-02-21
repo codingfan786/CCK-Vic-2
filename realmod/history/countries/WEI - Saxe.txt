@@ -1,8 +1,7 @@
-capital = 29
-primary_culture = north_german
-culture = south_german
+capital = 653
+primary_culture = central_german
 religion = protestant
-government = absolute_monarchy
+government = hms_government
 plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.8
@@ -11,9 +10,9 @@ prestige = 1
 
 
 # Political reforms
-slavery = no_slavery
+slavery = yes_slavery
 upper_house_composition = appointed
-vote_franschise = none_voting
+vote_franschise = landed_voting
 public_meetings = yes_meeting
 press_rights = state_press
 trade_unions = no_trade_unions

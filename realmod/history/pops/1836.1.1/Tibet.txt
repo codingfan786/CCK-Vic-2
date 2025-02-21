@@ -47,7 +47,7 @@
 	farmers = {
 		culture = chinese
 		religion = gelugpa
-		size = 18560
+		size = 1856000
 	}
 
 	clergymen = {
@@ -103,7 +103,7 @@
 	farmers = {
 		culture = chinese
 		religion = gelugpa
-		size = 127400
+		size = 2274000
 	}
 
 	clergymen = {
@@ -159,7 +159,7 @@
 	farmers = {
 		culture = chinese
 		religion = gelugpa
-		size = 72725
+		size = 2272500
 	}
 
 	clergymen = {
@@ -247,7 +247,7 @@
 	farmers = {
 		culture = chinese
 		religion = gelugpa
-		size = 17300
+		size = 2030000
 	}
 }
 #Ngari (304000/76000 POPS)

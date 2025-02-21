@@ -1,10 +1,9 @@
-capital = 29
+capital = 354
 primary_culture = french
-culture = french_canadian
 religion = catholic
-government = hms_government
-plurality = 25
-nationalvalue = nv_equality
+government = absolute_monarchy
+plurality = 15
+nationalvalue = nv_order
 literacy = 0.60
 non_state_culture_literacy = 0.15
 civilized = yes
@@ -15,12 +14,12 @@ prestige = 90
 # Political reforms
 slavery = yes_slavery
 upper_house_composition = appointed
-vote_franschise = wealth_voting
+vote_franschise = none_voting
 public_meetings = yes_meeting
 press_rights = censored_press
 trade_unions = no_trade_unions
 voting_system = first_past_the_post
-political_parties = non_secret_ballots
+political_parties = underground_parties
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -38,9 +37,7 @@ bronze_muzzle_loaded_artillery = 1
 military_staff_system = 1
 army_command_principle = 1
 post_nelsonian_thought = 1
-battleship_column_doctrine = 1
 clipper_design = 1
-steamers = 1
 naval_design_bureaus = 1
 alphabetic_flag_signaling = 1
 the_command_principle = 1
@@ -59,17 +56,12 @@ publishing_industry = 1
 mechanized_mining = 1
 experimental_railroad = 1
 basic_chemistry = 1
-stock_exchange = 1
-ad_hoc_money_bill_printing = 1
-#private_bank_money_bill_printing = 1
-market_structure = 1
-romanticism = 1
-practical_steam_engine = 1
-mechanical_production = 1
 
-# Inventions
-#corvettes = yes
-commerce_raiders = yes
+positivism = 1
+ideological_thought = 1
+associationism = 1
+
+military_plans = 1
 
 # Starting Consciousness
 consciousness = 3

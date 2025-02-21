@@ -1154,6 +1154,7 @@ pan_nationalist_rebels = {
 			OR = {
 				culture = north_italian
 				culture = south_italian
+				culture = central_italian
 			}
 		}
 
@@ -1775,6 +1776,7 @@ red_shirts = {
 				OR = {
 					culture = south_italian
 					culture = north_italian
+					culture = central_italian
 				}
 			}
 		}
@@ -1893,7 +1895,8 @@ red_shirts = {
 				is_culture_group = THIS
 				OR = {
 					is_greater_power = yes
-					tag = SAR
+					tag = SIC
+					tag = SIF
 				}
 				NOT = {
 					is_cultural_union = yes
@@ -2136,7 +2139,7 @@ liberal_rebels = {
 		presidential_dictatorship = democracy
 		bourgeois_dictatorship = democracy
 		fascist_dictatorship = democracy
-		absolute_monarchy = hms_government
+		absolute_monarchy = prussian_constitutionalism
 		prussian_constitutionalism = democracy
 		hms_government = democracy
 		democracy = democracy
@@ -2760,4 +2763,139 @@ apache = {
 	
 	#demands_enforced_effect = {
 	#}
+}
+
+chinese_rebels = {
+	icon = 1
+	
+	area = all 					# Stays within the nation
+	break_alliance_on_win = yes
+	
+	# <this is the governement in the country> = <this is what the rebels want>
+	government = {
+		proletarian_dictatorship = presidential_dictatorship
+		presidential_dictatorship = absolute_monarchy
+		bourgeois_dictatorship = presidential_dictatorship
+		fascist_dictatorship = presidential_dictatorship
+		absolute_monarchy = absolute_monarchy
+		prussian_constitutionalism = absolute_monarchy
+		hms_government = absolute_monarchy
+		democracy = presidential_dictatorship
+	}
+	
+	
+	defection = none					# Will defect to the "best" alternative.
+	independence = none				# Does not strive for independence
+	defect_delay = 8
+	
+	ideology = reactionary
+	
+	allow_all_cultures = yes
+	allow_all_religions = yes
+	allow_all_ideologies = yes
+	
+	resilient = yes					# Disbands on retreat
+	reinforcing = yes				# Does not receive reinforcements
+	general = yes					# Does use generals
+	smart = yes					# Does not assault forts, tactically withdraw from battle, etc.
+	unit_transfer = no				# Units do not remain after enforcing demands.
+	
+	occupation_mult = 3.0			# The amount of strength this rebel gains from taking provinces
+
+	# triggers a general rising, modifier will be multiplied with the countrys army strength and compared to the factions strenght
+	will_rise = 
+	{
+		factor = 3
+	}
+	
+	# The rebel type with the highest modifier for this pop gets picked
+	spawn_chance = {
+		factor = 1.00
+
+		modifier = {
+			factor = 0
+			country = { NOT = { has_country_flag = china_tag } }
+		}
+		modifier = {
+			factor = 0
+			country = { has_global_flag = china_done }
+		}
+		modifier = {
+			factor = 100
+			country = { has_country_flag = china_tag } 
+		}
+	}
+ 
+ 	#This is checked for EACH province in the Area of Operations
+	movement_evaluation = {
+		factor = 1
+
+		modifier = {
+			factor = 0.001
+			controlled_by = REB
+		}
+		modifier = {
+			factor = 1.5
+			average_militancy = 4
+		}
+		modifier = {
+			factor = 1.5
+			average_militancy = 6
+		}
+		modifier = {
+			factor = 1.5
+			average_militancy = 8
+		}
+
+		modifier = {
+			factor = 0.001
+			owner = {
+				NOT = {
+					has_country_flag = china_tag
+				}
+			}
+			CHI = {
+				any_owned_province = {
+					NOT = {controlled_by = REB}
+					NOT = {controlled_by = CHI}
+				}
+			}
+		}
+
+		modifier = {
+			factor = 200
+			owner = { has_country_flag = china_tag } 
+			country = { war = yes } 
+		}
+		modifier = {
+			factor = 20
+			owner = { war_countries = { has_country_flag = china_tag } } 
+		}
+	}
+	
+ 	# Province Scope
+ 	#siege_won_trigger = {
+ 	#}
+	
+	siege_won_effect = {
+		any_pop = {
+			militancy = 10
+		}
+	}
+
+	# Country scope
+	demands_enforced_trigger = {
+		has_global_flag = china_done
+		#capital_scope = {
+		#	controlled_by = REB
+		#	province_control_days = 60000
+		#}
+		any_owned_province = {
+			controlled_by = REB
+		}
+	}
+	
+	demands_enforced_effect = {
+
+	}
 }

@@ -3,7 +3,7 @@ controller = SIC
 add_core = SIC
 add_core = ITA
 
-
+naval_base = 1
 
 trade_goods = fish
  

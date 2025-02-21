@@ -3,6 +3,7 @@ controller = PRU
 add_core = PRU
 trade_goods = cattle
 life_rating = 36 
+naval_base = 1
 
  
  

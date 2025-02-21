@@ -1,25 +1,64 @@
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+army = {
+	name = "Army" #done
+	location = 544
+	
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 561
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 561
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 560
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 544
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 503
+	}
+
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 503
+	}
+
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 525
+	}
+
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 536
+	}
+
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 510
+	}
+
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 495
+	}
+}

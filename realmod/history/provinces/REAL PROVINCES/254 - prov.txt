@@ -3,6 +3,7 @@ controller = ENG
 add_core = ENG
 
 
-trade_goods = coal
+#trade_goods = coal
+trade_goods = fish
 life_rating = 35
  

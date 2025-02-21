@@ -1,6 +1,6 @@
-owner = MOD
-controller = MOD
-add_core = MOD
+owner = PAR
+controller = PAR
+add_core = PAR
 add_core = ITA
 
 

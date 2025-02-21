@@ -1,89 +1,356 @@
- 
- 
- 
- 
- 
- 
- 
- 
+SIC = {
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+}
+PAP = {
+	level = 3		#3=cordial, 4 = friendly, 5 sphere
+}
 
- 
- 
- 
- 
- 
- 
- 
+army = {
+	name = "Army" #done
+	location = 1053
+	
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 932
+	}
 
- 
- 
- 
- 
- 
- 
- 
- 
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 920
+	}
 
- 
- 
- 
- 
- 
- 
- 
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 907
+	}
 
- 
- 
- 
- 
- 
- 
- 
- 
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 947
+	}
 
- 
- 
- 
- 
- 
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 975
+	}
 
- 
- 
- 
- 
- 
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 975
+	}
 
- 
- 
- 
- 
- 
- 
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 966
+	}
 
- 
- 
- 
- 
- 
- 
- 
- 
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 939
+	}
 
- 
- 
- 
- 
- 
- 
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 916
+	}
 
- 
- 
- 
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 899
+	}
+}
 
- 
- 
- 
- 
+army = {
+	name = "Army" #done
+	location = 1100
+	
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 1056
+	}
 
- 
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 1056
+	}
 
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 1079
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 1064
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 1100
+	}
+
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 1100
+	}
+
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 1053
+	}
+
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 1035
+	}
+
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 917
+	}
+
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 917
+	}
+}
+
+army = {
+	name = "Army" #done
+	location = 1012
+	
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 896
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 896
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 871
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 866
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 870
+	}
+
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 888
+	}
+
+}
+
+navy = {
+	name = "Navy"
+	location = 975
+
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+}
+
+navy = {
+	name = "Navy"
+	location = 975
+
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+	ship = {
+		name= "Manowar"
+		type = manowar
+	}
+}
+
+navy = {
+	name = "Transport Navy"
+	location = 975
+
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Transport Ship"
+		type = clipper_transport
+	}
+}

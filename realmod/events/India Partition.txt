@@ -1,0 +1,427 @@
+country_event = {
+	id = 1337008
+	title = "The East Indies Partition"
+	desc = "eventdesc1337008"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "An excellent idea."
+		prestige = 10
+		ai_chance = {factor = 100} 
+	}
+	option = {
+		name = "Veto this rediculous agreement!"
+		prestige = -20
+		set_global_flag = partition_vetoed
+		ai_chance = {factor = 10} 
+	}
+}
+
+country_event = {
+	id = 1337009
+	title = "The East Indies Partition"
+	desc = "The proposed partition of the East Indies interior has been agreed upon!"
+
+	major = yes
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = JAN
+		has_global_flag = partition_proposed
+		NOT = { has_global_flag = partition_vetoed }
+		NOT = { has_country_modifier = partition_voting }
+	}
+
+	immediate = {
+		1589 = {
+			owner = {
+				country_event = 1337010
+			}
+		}
+		1623 = {
+			owner = {
+				country_event = 1337011
+			}
+		} 
+		1656 = {
+			owner = {
+				country_event = 1337012
+			}
+		} 
+		1658 = {
+			owner = {
+				country_event = 1337013
+			}
+		} 
+		1743 = {
+			owner = {
+				country_event = 1337014
+			}
+		} 
+		1774 = {
+			owner = {
+				country_event = 1337015
+			}
+		} 
+		1780 = {
+			owner = {
+				country_event = 1337016
+			}
+		}
+		1790 = {
+			owner = {
+				country_event = 1337017
+			}
+		}
+		1805 = {
+			owner = {
+				country_event = 1337018
+			}
+		}
+		1661 = {
+			owner = {
+				country_event = 1337019
+			}
+		}
+		1731 = {
+			owner = {
+				country_event = 1337020
+			}
+		}
+		1730 = {
+			owner = {
+				country_event = 1337021
+			}
+		}
+		1678 = {
+			owner = {
+				country_event = 1337022
+			}
+		}
+		1718 = {
+			owner = {
+				country_event = 1337023
+			}
+		}
+	}
+
+	option = {
+		name = "Wonderful!"
+	}
+}
+
+country_event = {
+	id = 1337010
+	title = "The East Indies Partition"
+	desc = "The proposed partition of the East Indies interior has been agreed upon!"
+
+	is_triggered_only = yes
+
+	immediate = {
+		1589 = {secede_province = THIS}
+		1592 = {secede_province = THIS}
+		1608 = {secede_province = THIS}
+		1612 = {secede_province = THIS}
+		1613 = {secede_province = THIS}
+		1631 = {secede_province = THIS}
+		1645 = {secede_province = THIS}
+		1641 = {secede_province = THIS}
+		1662 = {secede_province = THIS}
+		1650 = {secede_province = THIS}
+		1634 = {secede_province = THIS}
+		1673 = {secede_province = THIS}
+		1654 = {secede_province = THIS}
+		1689 = {secede_province = THIS}
+	}
+
+	option = {
+		name = "Wonderful!"
+	}
+}
+
+country_event = {
+	id = 1337011
+	title = "The East Indies Partition"
+	desc = "The proposed partition of the East Indies interior has been agreed upon!"
+
+	is_triggered_only = yes
+
+	immediate = {
+		1623 = {secede_province = THIS}
+		1620 = {secede_province = THIS}
+		1643 = {secede_province = THIS}
+		1629 = {secede_province = THIS}
+		1637 = {secede_province = THIS}
+		1653 = {secede_province = THIS}
+		1633 = {secede_province = THIS}
+		1636 = {secede_province = THIS}
+		1672 = {secede_province = THIS}
+		1676 = {secede_province = THIS}
+		1677 = {secede_province = THIS}
+		1688 = {secede_province = THIS}
+	}
+
+	option = {
+		name = "Wonderful!"
+	}
+}
+
+country_event = {
+	id = 1337012
+	title = "The East Indies Partition"
+	desc = "The proposed partition of the East Indies interior has been agreed upon!"
+
+	is_triggered_only = yes
+
+	immediate = {
+		1656 = {secede_province = THIS}
+		1647 = {secede_province = THIS}
+		1674 = {secede_province = THIS}
+		1660 = {secede_province = THIS}
+		1671 = {secede_province = THIS}
+		1683 = {secede_province = THIS}
+		1696 = {secede_province = THIS}
+		1710 = {secede_province = THIS}
+		1697 = {secede_province = THIS}
+		1706 = {secede_province = THIS}
+		1711 = {secede_province = THIS}
+	}
+
+	option = {
+		name = "Wonderful!"
+	}
+}
+
+country_event = {
+	id = 1337013
+	title = "The East Indies Partition"
+	desc = "The proposed partition of the East Indies interior has been agreed upon!"
+
+	is_triggered_only = yes
+
+	immediate = {
+		1655 = {secede_province = THIS}
+		1664 = {secede_province = THIS}
+		1658 = {secede_province = THIS}
+		1663 = {secede_province = THIS}
+		1681 = {secede_province = THIS}
+		1699 = {secede_province = THIS}
+		1691 = {secede_province = THIS}
+		1692 = {secede_province = THIS}
+	}
+
+	option = {
+		name = "Wonderful!"
+	}
+}
+
+country_event = {
+	id = 1337014
+	title = "The East Indies Partition"
+	desc = "The proposed partition of the East Indies interior has been agreed upon!"
+
+	is_triggered_only = yes
+
+	immediate = {
+		1743 = {secede_province = THIS}
+		1742 = {secede_province = THIS}
+		1714 = {secede_province = THIS}
+		1745 = {secede_province = THIS}
+		1756 = {secede_province = THIS}
+		1747 = {secede_province = THIS}
+		1713 = {secede_province = THIS}
+		1724 = {secede_province = THIS}
+		1717 = {secede_province = THIS}
+		1744 = {secede_province = THIS}
+	}
+
+	option = {
+		name = "Wonderful!"
+	}
+}
+
+country_event = {
+	id = 1337015
+	title = "The East Indies Partition"
+	desc = "The proposed partition of the East Indies interior has been agreed upon!"
+
+	is_triggered_only = yes
+
+	immediate = {
+		1774 = {secede_province = THIS}
+		1763 = {secede_province = THIS}
+		1767 = {secede_province = THIS}
+		1750 = {secede_province = THIS}
+		1760 = {secede_province = THIS}
+		1764 = {secede_province = THIS}
+		1751 = {secede_province = THIS}
+		1752 = {secede_province = THIS}
+		1738 = {secede_province = THIS}
+		1748 = {secede_province = THIS}
+		1735 = {secede_province = THIS}
+		1739 = {secede_province = THIS}
+		1765 = {secede_province = THIS}
+	}
+
+	option = {
+		name = "Wonderful!"
+	}
+}
+
+country_event = {
+	id = 1337016
+	title = "The East Indies Partition"
+	desc = "The proposed partition of the East Indies interior has been agreed upon!"
+
+	is_triggered_only = yes
+
+	immediate = {
+		1780 = {secede_province = THIS}
+		1781 = {secede_province = THIS}
+		1776 = {secede_province = THIS}
+		1783 = {secede_province = THIS}
+		1787 = {secede_province = THIS}
+	}
+
+	option = {
+		name = "Wonderful!"
+	}
+}
+
+country_event = {
+	id = 1337017
+	title = "The East Indies Partition"
+	desc = "The proposed partition of the East Indies interior has been agreed upon!"
+
+	is_triggered_only = yes
+
+	immediate = {
+		1790 = {secede_province = THIS}
+		1788 = {secede_province = THIS}
+		1797 = {secede_province = THIS}
+		1798 = {secede_province = THIS}
+		1791 = {secede_province = THIS}
+		1809 = {secede_province = THIS}
+	}
+
+	option = {
+		name = "Wonderful!"
+	}
+}
+
+country_event = {
+	id = 1337018
+	title = "The East Indies Partition"
+	desc = "The proposed partition of the East Indies interior has been agreed upon!"
+
+	is_triggered_only = yes
+
+	immediate = {
+		1805 = {secede_province = THIS}
+		1812 = {secede_province = THIS}
+		1807 = {secede_province = THIS}
+		1811 = {secede_province = THIS}
+	}
+
+	option = {
+		name = "Wonderful!"
+	}
+}
+
+country_event = {
+	id = 1337019
+	title = "The East Indies Partition"
+	desc = "The proposed partition of the East Indies interior has been agreed upon!"
+
+	is_triggered_only = yes
+
+	immediate = {
+		1670 = {secede_province = THIS}
+		1661 = {secede_province = THIS}
+		1675 = {secede_province = THIS}
+		1680 = {secede_province = THIS}
+		1690 = {secede_province = THIS}
+	}
+
+	option = {
+		name = "Wonderful!"
+	}
+}
+
+country_event = {
+	id = 1337020
+	title = "The East Indies Partition"
+	desc = "The proposed partition of the East Indies interior has been agreed upon!"
+
+	is_triggered_only = yes
+
+	immediate = {
+		1731 = {secede_province = THIS}
+		1725 = {secede_province = THIS}
+		1709 = {secede_province = THIS}
+		1704 = {secede_province = THIS}
+	}
+
+	option = {
+		name = "Wonderful!"
+	}
+}
+
+country_event = {
+	id = 1337021
+	title = "The East Indies Partition"
+	desc = "The proposed partition of the East Indies interior has been agreed upon!"
+
+	is_triggered_only = yes
+
+	immediate = {
+		1730 = {secede_province = THIS}
+		1687 = {secede_province = THIS}
+	}
+
+	option = {
+		name = "Wonderful!"
+	}
+}
+
+country_event = {
+	id = 1337022
+	title = "The East Indies Partition"
+	desc = "The proposed partition of the East Indies interior has been agreed upon!"
+
+	is_triggered_only = yes
+
+	immediate = {
+		1678 = {secede_province = THIS}
+		1679 = {secede_province = THIS}
+		1686 = {secede_province = THIS}
+		1685 = {secede_province = THIS}
+	}
+
+	option = {
+		name = "Wonderful!"
+	}
+}
+
+country_event = {
+	id = 1337023
+	title = "The East Indies Partition"
+	desc = "The proposed partition of the East Indies interior has been agreed upon!"
+
+	is_triggered_only = yes
+
+	immediate = {
+		1732 = {secede_province = THIS}
+		1702 = {secede_province = THIS}
+		1716 = {secede_province = THIS}
+		1718 = {secede_province = THIS}
+		1698 = {secede_province = THIS}
+	}
+
+	option = {
+		name = "Wonderful!"
+	}
+}
+

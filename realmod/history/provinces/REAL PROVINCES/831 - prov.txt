@@ -4,6 +4,7 @@ add_core = PRU
 add_core = POL
 trade_goods = fish
 life_rating = 36 
+naval_base = 1
 
  
  

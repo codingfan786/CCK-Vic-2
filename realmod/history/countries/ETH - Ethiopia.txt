@@ -1,6 +1,5 @@
-capital = 29
-primary_culture = amhara
-culture = oromo
+capital = 1328
+primary_culture = african
 religion = coptic
 government = absolute_monarchy
 plurality = 0.0

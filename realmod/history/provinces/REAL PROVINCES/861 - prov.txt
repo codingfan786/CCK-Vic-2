@@ -2,7 +2,7 @@ owner = GRE
 controller = GRE
 add_core = GRE
 
-
+naval_base = 1
 
 trade_goods = cattle
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = BER
-controller = BER
-add_core = BER
+owner = HYD
+controller = HYD
+add_core = HYD
 
 
 trade_goods = grain

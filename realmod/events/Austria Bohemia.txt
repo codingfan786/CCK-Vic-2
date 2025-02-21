@@ -1,0 +1,177 @@
+country_event = {
+	id = 1337001
+	title = "Rise of the United Kingdom!"
+	desc = "eventdesc1337001"
+	picture = "Unite"
+
+	major = yes
+	
+	fire_only_once = yes
+
+	trigger = {
+		tag = AUS
+		NOT = {has_global_flag = ABB_formed}
+		war = no
+		OR = {
+			BAD = {
+				any_core = {
+					NOT = {is_core = PRU}
+					NOT = {is_core = NET}
+					NOT = {owner = {vassal_of = THIS}}
+				}
+			}
+			WUR = {
+				any_core = {
+					NOT = {is_core = PRU}
+					NOT = {is_core = NET}
+					NOT = {owner = {vassal_of = THIS}}
+				}
+			}
+			FRM = {
+				any_core = {
+					NOT = {is_core = PRU}
+					NOT = {is_core = NET}
+					NOT = {owner = {vassal_of = THIS}}
+				}
+			}
+			WEI = {
+				any_core = {
+					NOT = {is_core = PRU}
+					NOT = {is_core = NET}
+					NOT = {owner = {vassal_of = THIS}}
+				}
+			}
+			OLD = {
+				any_core = {
+					NOT = {is_core = PRU}
+					NOT = {is_core = NET}
+					NOT = {owner = {vassal_of = THIS}}
+				}
+			}
+			HAN = {
+				any_core = {
+					NOT = {is_core = PRU}
+					NOT = {is_core = NET}
+					NOT = {owner = {vassal_of = THIS}}
+				}
+			}
+		}
+	}
+	
+	immediate = {
+		set_global_flag = ABB_formed
+
+		any_country = {
+			limit = {
+				tag = BAD
+				exists = yes
+				vassal_of = AUS
+			}
+			release_vassal = BAD
+			leave_alliance = THIS
+		}
+		any_country = {
+			limit = {
+				tag = WUR
+				exists = yes
+				vassal_of = AUS
+			}
+			release_vassal = WUR
+			leave_alliance = THIS
+		}
+		any_country = {
+			limit = {
+				tag = FRM
+				exists = yes
+				vassal_of = AUS
+			}
+			release_vassal = FRM
+			leave_alliance = THIS
+		}
+		any_country = {
+			limit = {
+				tag = WEI
+				exists = yes
+				vassal_of = AUS
+			}
+			release_vassal = WEI
+			leave_alliance = THIS
+		}
+		any_country = {
+			limit = {
+				tag = OLD
+				exists = yes
+				vassal_of = AUS
+			}
+			release_vassal = OLD
+			leave_alliance = THIS
+		}
+		any_country = {
+			limit = {
+				tag = HAN
+				exists = yes
+				vassal_of = AUS
+			}
+			release_vassal = HAN
+			leave_alliance = THIS
+		}
+
+		any_country = {
+			limit = {government = hms_government}
+			government = prussian_constitutionalism
+		}
+
+		government = absolute_monarchy
+		political_reform = none_voting
+
+		diplomatic_influence = {
+			who = BAD
+			value = -150
+		}
+		diplomatic_influence = {
+			who = WUR
+			value = -150
+		}
+		diplomatic_influence = {
+			who = FRM
+			value = -150
+		}
+		diplomatic_influence = {
+			who = WEI
+			value = -150
+		}
+		diplomatic_influence = {
+			who = HAN
+			value = -150
+		}
+		diplomatic_influence = {
+			who = OLD
+			value = -150
+		}
+
+		AUS = {
+			all_core = {
+				add_core = ABB
+				remove_core = AUS
+			}
+		}
+		BOH = {
+			all_core = {
+				add_core = ABB
+				remove_core = BOH
+			}
+		}
+
+		change_tag = ABB
+		add_accepted_culture = czech
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Long live the king!"
+	}
+}
+

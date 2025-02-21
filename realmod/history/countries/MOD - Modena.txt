@@ -1,4 +1,4 @@
-capital = 29
+capital = 604
 primary_culture = north_italian
 religion = catholic
 government = absolute_monarchy

@@ -278,6 +278,12 @@
 #under the rule of Austria in 1836  
 #Vienna (1084000/271000 POPS)
 766 = {
+	craftsmen = {
+		culture = south_german
+		religion = protestant
+		size = 21000 
+	}
+	
 	aristocrats = {
 		culture = south_german
 		religion = catholic

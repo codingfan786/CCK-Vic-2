@@ -2,7 +2,7 @@ owner = SWE
 controller = SWE
 add_core = SWE
 
-
+naval_base = 1
 
 trade_goods = coal
 life_rating = 35

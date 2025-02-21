@@ -773,79 +773,79 @@
 	aristocrats = {
 		culture = north_italian
 		religion = catholic
-		size = 425
+		size = 4250
 	}
 
 	bureaucrats = {
 		culture = north_italian
 		religion = catholic
-		size = 200
+		size = 2000
 	}
 
 	bureaucrats = {
 		culture = south_german
 		religion = catholic
-		size = 450
+		size = 4500
 	}
 	
 	officers = {
 		culture = north_italian
 		religion = catholic
-		size = 100
+		size = 1000
 	}
 
 	clergymen = {
 		culture = north_italian
 		religion = catholic
-		size = 175
+		size = 1750
 	}
 
 	artisans = {
 		culture = north_italian
 		religion = catholic
-		size = 10000
+		size = 100000
 	}
 
 	artisans = {
 		culture = north_italian
 		religion = catholic
-		size = 3500
+		size = 35000
 	}
 
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 175
+		size = 1750
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 2375
+		size = 23750
 	}
 
 	clergymen = {
 		culture = serb
 		religion = catholic
-		size = 100
+		size = 1000
 	}
 
 	artisans = {
 		culture = serb
 		religion = catholic
-		size = 4500
+		size = 45000
 	}
 
 	soldiers = {
 		culture = serb
 		religion = catholic
-		size = 100
+		size = 1000
 	}
 
 	farmers = {
 		culture = serb
 		religion = catholic
-		size = 6300
+		size = 63000
 	}
 }
 #Gorizia (180000/45000 POPS)

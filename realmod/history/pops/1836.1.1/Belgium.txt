@@ -153,6 +153,11 @@
 }
 #Bruges (456000/114000 POPS)
 371 = {
+	craftsmen = {
+		culture = dutch
+		religion = catholic
+		size = 40000
+	}
 	aristocrats = {
 		culture = dutch
 		religion = catholic

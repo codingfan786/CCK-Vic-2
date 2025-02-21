@@ -1,8 +1,8 @@
-owner = ORA
-controller = ORA
+owner = NET
+controller = NET
 add_core = ORA
 
- 
+naval_base = 2
 trade_goods = fruit
 life_rating = 35
 colonial = 2

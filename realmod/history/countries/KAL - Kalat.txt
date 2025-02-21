@@ -1,5 +1,5 @@
 capital = 29
-primary_culture = baluchi
+primary_culture = indian
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

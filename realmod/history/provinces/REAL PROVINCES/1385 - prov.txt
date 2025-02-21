@@ -2,7 +2,7 @@ owner = IRQ
 controller = IRQ
 add_core = IRQ
 
-
+fort = 2
 
 trade_goods = sulphur
 life_rating = 35

@@ -82,7 +82,7 @@
 	farmers = {
 		culture = chinese
 		religion = mahayana
-		size = 8642250
+		size = 864225
 	}
 
 	aristocrats = {
@@ -184,7 +184,7 @@
 	farmers = {
 		culture = chinese
 		religion = gelugpa
-		size = 4349000
+		size = 434900
 	}
 
 	bureaucrats = {
@@ -314,7 +314,7 @@
 	farmers = {
 		culture = chinese
 		religion = gelugpa
-		size = 822000
+		size = 1822000
 	}
 
 	aristocrats = {
@@ -449,7 +449,7 @@
 	farmers = {
 		culture = chinese
 		religion = gelugpa
-		size = 346000
+		size = 1346000
 	}
 
 	aristocrats = {

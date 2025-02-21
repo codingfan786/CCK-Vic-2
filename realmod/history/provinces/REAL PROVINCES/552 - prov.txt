@@ -1,8 +1,8 @@
-owner = MOD
-controller = MOD
-add_core = MOD
+owner = SAR
+controller = SAR
+add_core = SAR
 add_core = ITA
-
+naval_base = 1
 
 
 trade_goods = fruit

@@ -71,13 +71,6 @@ germanic = {
 		"von Grünne" "von Habsburg" "von Hartmann" "von Haynau" "von Hess" "von Hohenhausen" "d'Aspre von Hoobreuk" "von Hortstein" "von Hötzendorf" "von Kirbach"
 		"von Kobratin" "von Schönburg" "von Tegetthoff" "von Uchatius" "von Wittelsbach" "von Württemberg" "von Zahringen" Wagner Wittmann "zu Hohenlohe" }
 	}
-
-	union = GER
-}
-
-beneluxian = {
-	leader = european
-	unit = EuropeanGC
 	dutch = { 
 		color = { 230 130 50}
 		first_names = { 
@@ -134,6 +127,28 @@ beneluxian = {
 			Wolterbeek
 		}
 	}
+	estonian = {
+		color = {40 30 60}
+		first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
+		Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
+		Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
+		Lennart Ludvig Madis Mart Mikhel Nigul Olev Paavo Peeter Pent
+		Ragnar Siiri Sven Tarmo Tõnis Toomas Uno Valmar Villwm Voldemar
+		}
+
+		last_names = { Aamisepp Aavik Adams Anvel Barbarus Bornhöhe Eenpalu Hint Hurt Jaakson
+		Kangro Kint Klaasen Koern Kõiv Kotli Kumari Kupine Kuusik Leppik
+		Lipping Lohk Mäe Männil Moora Natus Nurkse Nurmekund Õkva Öpik
+		Orkivu Päts Perna Piiper Poska Puusepp Ränk Rei Reinman Siinmaa
+		Sikkar Sirk Tõnisson Uluots Vaga Veske Vilbaste Vilms "von Uexküll" Warma
+		}
+	}
+}
+
+beneluxian = {
+	leader = european
+	unit = EuropeanGC
+
 	flemish = { 
 		color = { 250 180 80}
 		first_names = { Adolf Adolphe Alexander Alexandre Alfons Alphonse Adriaan Albert Andries Antoine Auguste Boudewijn Bonifaas 
@@ -259,7 +274,6 @@ scandinavian = {
 			Hætta Somby Turi Magga Dunfjeld Kvitfjell Kappfjell
 		}
 	}
-	union = SCA
 }
 
 british = {
@@ -490,7 +504,7 @@ south_slavic = {
 		}
 	}
 	serb = {
-		color = {150 65 80}
+		color = {163 73 164} #{150 65 80}
 		first_names = { Alaksandar Blagoje Bozidar Branko Danilo Dejan Djordje Dragan Dragisa Dragoljub
 		Dragutin Draza Dusan Gavrilo Goran Janko Jovan Koca Kosta Krsto
 		Ljubisa Mihailo Milan Miliutin Milivoje Milojko Milos Miodrag Mirko Miroslav
@@ -571,7 +585,6 @@ south_slavic = {
 		Sarajlic Selimovic Silajdzic Sokolovic Spaho Terzic Tihic Turaljic Tükcan Ugljanin 
 		}
 	}
-	union = YUG
 }
 pan_romanian = {
 	leader = european
@@ -592,7 +605,6 @@ pan_romanian = {
 		Salajan Samsonovici Schitiu Scodrea Slaniceanu Steflea Tatarascu Tenescu Vaitoianu Zottu
 		}
 	}
-	union = ROM 
 }
 
 hungarian_culture_group = {
@@ -600,7 +612,7 @@ hungarian_culture_group = {
 		unit = AustriaHungaryGC
 		
 	hungarian = {
-		color = {180 255 120}
+		color = { 152  85  92 } #{180 255 120}
 		first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
 		Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
 		György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
@@ -651,7 +663,6 @@ polish_culture_group = {
 		}
 	}
 	
-	union = PLC
 }
 
 czecho_slovak_culture_group = {
@@ -687,7 +698,6 @@ czecho_slovak_culture_group = {
 		Masaryk Móry Moyses Rázus Rohácek Rudnay Selepcéni Sidor Skultéty-Gábris Smik
 		Sokol Stefánik Suchon Sverma Tiso Trcka Tuka Turanec Viest Zoch }
 	}
-	union = CZH
 }
 
 east_slavic = {
@@ -718,7 +728,7 @@ east_slavic = {
                                        Tukhachevsky Yegorov Vorontsov Zhauryd }
         }
 	ukrainian = {
-		color = {160 160 60}
+		color = {0 162 232} #{160 160 60}
                      first_names = { Alexei Andrei Anton Arkadiy Borys Dmitro Fyodor Hryhoriy Ivan Lavr Leonid Lev 
                                      Mikhail Mykola Nikita  Oleksandr Pavel Petro Roman Semyon Sergiy Valeriy 
                                      Viktor Volodimir Vladislav Yuriy }
@@ -754,24 +764,8 @@ baltic = {
 		Petrovs Plieksans Pumpurs Rothko Simanis Stucka Tumins Ulmanis Veidenbaums
 		}
 	}
-	estonian = {
-		color = {40 30 60}
-		first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
-		Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
-		Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
-		Lennart Ludvig Madis Mart Mikhel Nigul Olev Paavo Peeter Pent
-		Ragnar Siiri Sven Tarmo Tõnis Toomas Uno Valmar Villwm Voldemar
-		}
 
-		last_names = { Aamisepp Aavik Adams Anvel Barbarus Bornhöhe Eenpalu Hint Hurt Jaakson
-		Kangro Kint Klaasen Koern Kõiv Kotli Kumari Kupine Kuusik Leppik
-		Lipping Lohk Mäe Männil Moora Natus Nurkse Nurmekund Õkva Öpik
-		Orkivu Päts Perna Piiper Poska Puusepp Ränk Rei Reinman Siinmaa
-		Sikkar Sirk Tõnisson Uluots Vaga Veske Vilbaste Vilms "von Uexküll" Warma
-		}
-	}
 	
-	union = UBD
 
 }
 
@@ -971,7 +965,6 @@ arab = {
 			radicalism = 10
 	}
 	
-	union = ARA
 }
 
 iranian_turanian = {
@@ -1357,7 +1350,6 @@ south_asian = {
                
 		}
 	}
-	union = HND
 }
 
 southeast_asian = {
@@ -1612,7 +1604,6 @@ bears = {
 		
 		last_names = { Beliy Medved Bjorn Rawrrorr Rrrrr Grrr Gyp Qoi Styrbjorn Blomstfjellet }
 	}
-	union = SCA
 }
 
 african_group = {

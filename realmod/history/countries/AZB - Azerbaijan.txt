@@ -1,6 +1,5 @@
-capital = 29
+capital = 1488
 primary_culture = azerbaijani
-culture = turkish
 religion = sunni
 government = democracy
 plurality = 25.0

@@ -192,49 +192,49 @@
 	clergymen = {
 		culture = serb
 		religion = catholic
-		size = 50
+		size = 200
 	}
 
 	artisans = {
 		culture = serb
 		religion = catholic
-		size = 250
+		size = 1000
 	}
 
 	soldiers = {
 		culture = serb
 		religion = catholic
-		size = 50
+		size = 200
 	}
 
 	farmers = {
 		culture = serb
 		religion = catholic
-		size = 4650
+		size = 18600
 	}
 
 	clergymen = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 400
 	}
 
 	artisans = {
 		culture = serb
 		religion = orthodox
-		size = 550
+		size = 2200
 	}
 
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 125
+		size = 500
 	}
 
 	farmers = {
 		culture = serb
 		religion = orthodox
-		size = 10225
+		size = 40900
 	}
 
 }

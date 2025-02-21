@@ -6,13 +6,13 @@ can_be_recruited = yes
 
 rebel =
 {
-	cavalry = 0.2
-	artillery = 0.01
-	cuirassier = 0.05
-	dragoon = 0.05
-	guard = 0.15
-	hussar = 0.05
-	infantry = 0.3
+	cavalry = 0
+	artillery = 0.5
+	cuirassier = 0
+	dragoon = 0
+	guard = 0
+	hussar = 0.1
+	infantry = 0.4
 	irregular = 0
 }
 

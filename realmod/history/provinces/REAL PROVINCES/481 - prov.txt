@@ -1,7 +1,8 @@
 owner = NET
 controller = NET
 add_core = NET
+add_core = BAD
 trade_goods = iron
 life_rating = 36 
-
+fort = 1
    

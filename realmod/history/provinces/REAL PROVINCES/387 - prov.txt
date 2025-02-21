@@ -1,7 +1,7 @@
 owner = NET
 controller = NET
 add_core = NET
-
-
+fort = 1
+terrain = marsh
 trade_goods = fish
 life_rating = 35

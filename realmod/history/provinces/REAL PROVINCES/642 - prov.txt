@@ -1,6 +1,6 @@
-owner = BRA
-controller = BRA
-add_core = BRA
+owner = WEI
+controller = WEI
+add_core = WEI
  
 
 trade_goods = fruit

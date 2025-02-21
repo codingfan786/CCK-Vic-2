@@ -2,7 +2,7 @@ owner = NET
 controller = NET
 add_core = NET
 
-
+fort = 1
 
 
 trade_goods = wool

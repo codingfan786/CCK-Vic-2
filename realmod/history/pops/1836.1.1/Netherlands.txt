@@ -1,6 +1,11 @@
 #Holland & Zeeland Region - 1353000
 #Amsterdam (464000/116000 POPS)
 415 = {
+	craftsmen = {
+		culture = dutch
+		religion = catholic
+		size = 50000
+	}
 	clergymen = {
 		culture = ashkenazi
 		religion = jewish
@@ -81,6 +86,11 @@
 }
 #Rotterdam (567000/141750 POPS)
 403 = {
+	craftsmen = {
+		culture = dutch
+		religion = catholic
+		size = 30000
+	}
 	aristocrats = {
 		culture = dutch
 		religion = protestant

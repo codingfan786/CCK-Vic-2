@@ -3,7 +3,7 @@ controller = IRQ
 add_core = TUR
 add_core = ARM
 
-
+fort = 2
 
 
 trade_goods = iron

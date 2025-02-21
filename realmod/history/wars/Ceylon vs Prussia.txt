@@ -1,0 +1,16 @@
+1836.1.1 = {
+	add_attacker = PRU
+	add_defender = MYS
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = establish_protectorate_casus_belli
+		actor = PRU
+		receiver = MYS
+	}
+
+}

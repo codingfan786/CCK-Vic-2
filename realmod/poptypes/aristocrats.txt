@@ -3,13 +3,14 @@ color = { 11 40 93 }
 strata = rich
 state_capital_only = yes
 
+
 rebel =
 {
-	cavalry = 0.1
-	artillery = 0
-	cuirassier = 0.1
-	dragoon = 0.1
-	guard = 0.6
+	cavalry = 0
+	artillery = 0.5
+	cuirassier = 0
+	dragoon = 0
+	guard = 0.4
 	hussar = 0.1
 	infantry = 0
 	irregular = 0

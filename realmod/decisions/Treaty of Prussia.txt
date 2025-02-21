@@ -1,14 +1,19 @@
 political_decisions = {
 
-	treaty_offer = {
+	treaty_of_prussia = {
 		potential = {
 			NOT = {has_global_flag = prussia_treaty}
 			OR = {
 				tag = PRU
 				tag = POL
 			}
+			exists = PRU
+			exists = POL
 		}
 		allow = {
+			year = 1837
+			PRU = {war = no}
+			POL = {war = no}
 			PRU = {
 				owns = 812
 				owns = 831
@@ -18,56 +23,37 @@ political_decisions = {
 				owns = 875
 				owns = 830
 			}
-			ai = no
 		}
 		effect = {
 			set_global_flag = prussia_treaty
-			812 = {
-				remove_core = POL
-				any_pop = {
-					limit = {
-						has_pop_culture = polish
-					}
-					move_pop = 875
-				}
-			}
-			831 = {
-				remove_core = POL
-				any_pop = {
-					limit = {
-						has_pop_culture = polish
-					}
-					move_pop = 926
-				}
-			}
-			926 = {
-				remove_core = PRU
-				any_pop = {
-					limit = {
-						has_pop_culture = north_german
-					}
-					move_pop = 831
-				}
-			}
-			875 = {
-				remove_core = PRU
-				any_pop = {
-					limit = {
-						has_pop_culture = north_german
-					}
-					move_pop = 812
-				}
-			}
-			830 = {
-				remove_core = PRU
-				any_pop = {
-					limit = {
-						has_pop_culture = north_german
-					}
-					move_pop = 831
-				}
-			}
 
+			any_country = {
+				limit = {
+					NOT = {
+						tag = THIS
+					}
+					OR = {
+						tag = POL
+						tag = PRU
+					}
+				}
+				country_event = 1337002
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {ideological_thought = 1}
+			}
+			modifier = {
+				factor = 0
+				truce_with = PRU
+			}
+			modifier = {
+				factor = 0
+				truce_with = POL
+			}
 		}
 	}
 

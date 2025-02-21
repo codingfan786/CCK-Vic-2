@@ -1,9 +1,8 @@
 owner = CAT
 controller = CAT
-add_core = SAR
 add_core = SIC
 add_core = ITA
-
+add_core = CAT
 
 trade_goods = fish
 life_rating = 35

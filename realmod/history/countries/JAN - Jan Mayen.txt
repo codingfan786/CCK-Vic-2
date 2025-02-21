@@ -28,6 +28,8 @@ unemployment_subsidies = trinket_subsidies
 pensions = low_pensions 
 school_reforms = no_schools
 
+decision = startup
+
 ruling_party = JAN_liberal
 upper_house = {
 	fascist = 0

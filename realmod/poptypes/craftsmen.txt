@@ -5,7 +5,17 @@ color = { 12 157 162 }
 
 strata = poor
 
-
+rebel =
+{
+	cavalry = 0
+	artillery = 0.5
+	cuirassier = 0
+	dragoon = 0
+	guard = 0
+	hussar = 0.1
+	infantry = 0.4
+	irregular = 0
+}
 
 everyday_needs = {
 	tea = 4

@@ -1,410 +1,136 @@
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+OLD = {
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+}
+BAD = {
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+}
+HAN = {
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+}
+FRM = {
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+}
+WUR = {
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+}
+WEI = {
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+}
+SWI = {
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+}
+
+army = {
+	name = "Army" #done
+	location = 700
+	
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 700
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 700
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 748
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 753
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 703
+	}
+
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 674
+	}
+
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 766
+	}
+
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 776
+	}
+
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 743
+	}
+
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 679
+	}
+}
+
+army = {
+	name = "Army" #done
+	location = 753
+	
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 636
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 621
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 624
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 624
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 602
+	}
+
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 661
+	}
+
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 681
+	}
+
+
+}
+

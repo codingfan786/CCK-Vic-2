@@ -2,7 +2,7 @@ owner = PAP
 controller = PAP
 add_core = PAP
 add_core = ITA
-
+naval_base = 1
 
 
 trade_goods = fruit

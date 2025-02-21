@@ -1,10 +1,24 @@
 owner = NET
 controller = NET
 add_core = NET
+add_core = HAN
 trade_goods = coal
 life_rating = 36 
 
  
-# 
- 
-   
+
+state_building = {
+	level = 2
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = artillery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = explosives_factory
+	upgrade = yes
+}

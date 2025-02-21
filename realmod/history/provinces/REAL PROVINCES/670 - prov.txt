@@ -1,15 +1,26 @@
-owner = BRA
-controller = BRA
-add_core = BRA
+owner = WEI
+controller = WEI
+add_core = WEI
+
  
 
 trade_goods = fruit
 life_rating = 36
  
- 
- 
- 
- 
- 
- 
+state_building = {
+	level = 1
+	building = regular_clothes_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = furniture_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = liquor_distillery
+	upgrade = yes
+}
+
    

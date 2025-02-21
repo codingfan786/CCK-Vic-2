@@ -1,6 +1,8 @@
 capital = 29
 primary_culture = north_italian
 culture = south_italian
+culture = central_italian
+culture = north_italian
 religion = catholic
 government = hms_government
 plurality = 0.12

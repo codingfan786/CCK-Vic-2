@@ -1,5 +1,5 @@
-capital = 29
-primary_culture = swahili
+capital = 1169
+primary_culture = african
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

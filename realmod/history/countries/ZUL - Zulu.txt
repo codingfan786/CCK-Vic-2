@@ -1,7 +1,5 @@
-capital = 29
-primary_culture = zulu
-culture = nguni
-culture = sotho
+capital = 1115
+primary_culture = african
 religion = animist
 government = absolute_monarchy
 plurality = 0.0

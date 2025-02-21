@@ -41,7 +41,7 @@
 	farmers = {
 		culture = chinese
 		religion = sunni
-		size = 46775
+		size = 1077500
 	}
 
 	aristocrats = {
@@ -133,7 +133,7 @@
 	farmers = {
 		culture = chinese
 		religion = sunni
-		size = 27325
+		size = 1273250
 	}
 
 	aristocrats = {
@@ -315,7 +315,7 @@
 	farmers = {
 		culture = chinese
 		religion = sunni
-		size = 900
+		size = 1000000
 	}
 
 	aristocrats = {
@@ -377,7 +377,7 @@
 	farmers = {
 		culture = chinese
 		religion = sunni
-		size = 43650
+		size = 1065000
 	}
 }
 #Khotan (88000/22000 POPS)
@@ -409,7 +409,7 @@
 	farmers = {
 		culture = chinese
 		religion = sunni
-		size = 20025
+		size = 2002500
 	}
 }
 #Kumul (188000/47000 POPS)
@@ -471,7 +471,7 @@
 	farmers = {
 		culture = chinese
 		religion = sunni
-		size = 2700
+		size = 2000000
 	}
 
 	clergymen = {
@@ -527,7 +527,7 @@
 	farmers = {
 		culture = chinese
 		religion = sunni
-		size = 60225
+		size = 2022500
 	}
 
 	aristocrats = {
@@ -679,7 +679,7 @@
 	farmers = {
 		culture = chinese
 		religion = sunni
-		size = 4575
+		size = 2575000
 	}
 
 	aristocrats = {
