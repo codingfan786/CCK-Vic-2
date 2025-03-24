@@ -1,0 +1,10 @@
+owner = AUS
+controller = AUS
+ #was owned by poland before but I think these borders look nicer
+
+
+add_core = SLV
+
+trade_goods = cattle
+life_rating = 35
+   

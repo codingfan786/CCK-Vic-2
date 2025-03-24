@@ -1,0 +1,72 @@
+political_decisions = {
+	propose_partition = {
+		picture = annex_the_congo
+		potential = {
+			ai = no
+			NOT = {has_global_flag = partition_proposed}
+			NOT = { year = 1845 }
+		}
+		allow = {
+			NOT = { year = 1845 }
+			
+			MAK = {exists = no}
+			BER = {exists = no}
+			HYD = {exists = no}
+			IND = {exists = no}
+			JAI = {exists = no}
+			JAS = {exists = no}
+			JOD = {exists = no}
+			KAL = {exists = no}
+			KAS = {exists = no}
+			ORI = {exists = no}
+			NAG = {exists = no}
+			
+			any_owned_province = {
+				OR = {
+					is_core = MAK
+					is_core = BER
+					is_core = HYD
+					is_core = IND
+					is_core = JAI
+					is_core = JAS
+					is_core = JOD
+					is_core = KAL
+					is_core = KAS
+					is_core = ORI
+					is_core = NAG
+				}
+			}
+		}
+		effect = {
+			set_global_flag = partition_proposed
+
+			JAN = {
+				add_country_modifier = {
+					name = partition_voting
+					duration = 30
+				}
+			}
+
+			any_country = {
+				limit = {
+					any_owned_province = {
+						OR = {
+							is_core = MAK
+							is_core = BER
+							is_core = HYD
+							is_core = IND
+							is_core = JAI
+							is_core = JAS
+							is_core = JOD
+							is_core = KAL
+							is_core = KAS
+							is_core = ORI
+							is_core = NAG
+						}
+					}
+				}
+				country_event = 1337008
+			}
+		}
+	}
+}

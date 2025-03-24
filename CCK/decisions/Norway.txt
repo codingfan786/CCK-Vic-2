@@ -1,0 +1,27 @@
+political_decisions = {
+	inherit_swe = {
+		picture = form_scandinavia
+		potential = {
+			tag = NOR
+			NOT = {has_country_flag = inherited_swe}
+		}
+		allow = {
+			state_n_government = 1
+			SWE = {
+				vassal_of = THIS
+			}
+		}
+		effect = {
+			add_accepted_culture = swedish
+			inherit = SWE
+			SWE = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+		}
+	}
+
+
+
+}

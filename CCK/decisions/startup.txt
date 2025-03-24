@@ -1,0 +1,110 @@
+political_decisions = {
+
+	startup = {
+		potential = {
+			NOT = {has_global_flag = startedup}
+			tag = JAN
+		}
+		allow = {}
+		effect = {
+			enable_canal = 3
+			enable_canal = 4
+			enable_canal = 5
+			enable_canal = 6
+			enable_canal = 7
+			enable_canal = 8
+			enable_canal = 9
+
+			set_global_flag = startedup
+
+			WEI = { any_pop = { limit = {type = craftsmen} reduce_pop = 0.6 } }
+
+			CHI = { set_country_flag = china_tag }
+			CHI = {	any_pop = { reduce_pop = 0.4 } }
+			CHI = {	any_pop = { limit = { type = soldiers } reduce_pop = 0.0 } }
+			#CHI = {any_pop = {militancy = 10}}
+			CHI = {
+				add_country_modifier = {
+					name = china_timebomb_coming
+					duration = -1
+				}
+			}
+			any_country = {
+				leadership = 60
+				treasury = 100000
+			}
+
+			#country_event = 700703
+			#SPA = {
+			#	add_casus_belli = {
+			#		target = FRA
+			#		type = take_puppet
+			#		months = 12
+			#	}
+			#}
+			#ENG = {
+			#	add_casus_belli = {
+			#		target = FRA
+			#		type = take_puppet
+			#		months = 12
+			#	}
+			#}
+			any_country = {
+				limit = {
+					OR = {
+						tag = HAN
+						tag = OLD
+						tag = WEI
+						tag = FRM
+						tag = BAD
+						tag = WUR
+					}
+				}
+				set_country_flag = HRE_PUPPET
+			}
+			any_country = {
+				limit = {
+					exists = yes
+					NOT = {tag = POR}
+					NOT = {tag = SPA}
+					NOT = {tag = CAT}
+					NOT = {tag = SIC}
+					NOT = {tag = FRA}
+					NOT = {tag = NET}
+					NOT = {tag = ENG}
+					NOT = {tag = NOR}
+					NOT = {tag = SWE}
+					NOT = {tag = PRU}
+					NOT = {tag = POL}
+					NOT = {tag = AUS}
+					NOT = {tag = GRE}
+					NOT = {tag = ROM}
+					NOT = {tag = TUR}
+					NOT = {tag = IRQ}
+					NOT = {tag = RUS}
+					NOT = {tag = REB}
+
+					NOT = {tag = OLD}
+					NOT = {tag = HAN}
+					NOT = {tag = WEI}
+					NOT = {tag = FRM}
+					NOT = {tag = BAD}
+					NOT = {tag = WUR}
+				}
+				capital_scope = {
+					sub_unit = {type = infantry value = current}
+		            sub_unit = {type = infantry value = current}
+		            sub_unit = {type = infantry value = current}
+		            sub_unit = {type = infantry value = current}
+		            sub_unit = {type = artillery value = current}
+		            sub_unit = {type = artillery value = current}
+		            sub_unit = {type = artillery value = current}
+		            sub_unit = {type = artillery value = current}
+		        	sub_unit = {type = artillery value = current}
+		            sub_unit = {type = hussar value = current}
+				}
+			}
+		}
+	}
+
+}

@@ -1,0 +1,49 @@
+political_decisions = {
+	form_ruthenia = {
+		picture = form_poland_lithuania
+		potential = {
+			OR = {
+				tag = RUS
+				tag = POL
+			}
+			NOT = {accepted_culture = ukrainian}
+		}
+		allow = {
+			RUT = {exists = no}
+			OR = {
+				tag = RUS
+				tag = POL
+			}
+			UKR = {all_core = {owner = {tag = THIS}}}
+			BYE = {all_core = {owner = {tag = THIS}}}
+		}
+		effect = {
+			add_accepted_culture = ukrainian
+
+			random_owned = {
+				limit = {
+					NOT = {1130 = {is_core = RUT}}
+				}
+				THIS = {
+					change_tag = RUT
+					UKR = {
+						all_core = {
+							add_core = RUT
+						}
+					}
+					BYE = {
+						all_core = {
+							add_core = RUT
+						}
+					}
+				}
+			}
+			
+
+		}
+	}
+
+
+
+
+}

@@ -1,6 +1,0 @@
-name = "..realmod"
-path = "mod/realmod"
-user_dir = "realmod"
-replace_path = "events"
-replace_path = "decisions"
-replace_path = "history"

@@ -1,0 +1,6 @@
+name = "..Conquests Of the Confucian Kingdom (C.O.C.K.)"
+path = "mod/CCK"
+user_dir = "CCK"
+replace_path = "events"
+replace_path = "decisions"
+replace_path = "history"

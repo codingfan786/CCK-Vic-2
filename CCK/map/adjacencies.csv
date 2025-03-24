@@ -1,0 +1,52 @@
+1816;1815;impassable;0;0;scary mountain
+1816;1814;impassable;0;0;scary mountain
+1815;1814;impassable;0;0;scary mountain
+
+906;905;sea;676;0;Lithuania Crossing
+
+118;94;impassable;0;0;scary mountain
+
+316;346;sea;276;0;english crossing
+
+538;588;sea;576;0;danish crossing
+626;588;sea;576;0;danish crossing
+626;654;sea;576;0;danish crossing
+
+796;868;sea;806;0;finnish crossing
+919;868;sea;806;0;finnish crossing
+
+935;981;sea;835;0;estonia crossing
+
+166;192;sea;157;0;irish crossing
+
+542;518;sea;512;0;italy crossing
+721;761;sea;586;0;italy crossing
+
+1275;1313;sea;1237;0;crimea crossing
+
+1100;1126;sea;1031;0;instanbul crossing
+1053;1046;sea;1031;0;instanbul crossing
+
+
+870;878;land;789;0;greek crossing
+893;899;sea;845;0;greek crossing
+
+183;181;sea;133;0;spain crossing
+
+1736;1716;sea;1715;0;india crossing
+
+1393;1424;sea;1316;0;africa crossing
+
+415;436;sea;364;0;dutch crossing
+
+
+
+408;627;canal;547;1;Kiel Canal
+1120;1206;canal;1199;2;Suez Canal
+133;228;canal;181;3;Gibralter 1
+133;77;canal;181;4;Gibralter 2
+133;44;canal;181;5;Gibralter 3
+1316;1403;canal;1393;6;africa
+576;627;canal;626;7;lubeck
+1031;1086;canal;1100;8;turkey
+1031;933;canal;1046;9;turkey

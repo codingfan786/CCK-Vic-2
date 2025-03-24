@@ -1,0 +1,180 @@
+political_decisions = {
+
+	go_in_exile = {
+		picture = form_union_nation
+		potential = {
+			NOT = {
+				has_country_flag = already_exiled
+			}
+			NOT = { government = exile_government }
+			capital_scope = { continent = europe }
+			any_owned_province = {
+				is_overseas = yes
+				NOT = { continent = europe }
+			}
+		}
+		allow = {
+			revanchism = 0.5
+		}
+		effect = {
+			set_country_flag = already_exiled
+			government = exile_government
+
+			random_owned = {
+				limit = {
+					is_overseas = yes
+					NOT = { continent = europe }
+					is_colonial = yes
+
+					#none of the islands
+					NOT = {province_id = 1670 }
+					NOT = {province_id = 1732 }
+					NOT = {state_id = 1736 }
+					NOT = {province_id = 1813 }
+					NOT = {province_id = 1652 }
+					NOT = {province_id = 1648 }
+					NOT = {province_id = 1535 }
+					NOT = {province_id = 1569 }
+					NOT = {province_id = 1443 }
+					NOT = {province_id = 1547 }
+					NOT = {province_id = 19 }
+					NOT = {province_id = 41 }
+					NOT = {province_id = 178 }
+					NOT = {province_id = 69 }
+					NOT = {province_id = 26 }
+					NOT = {province_id = 39 }
+					NOT = {province_id = 42 }
+					NOT = {province_id = 20 }
+				}
+				state_scope = {
+					any_owned = {
+						add_core = THIS
+						add_core = SIK
+					}
+				}
+			}
+			any_owned = {
+				limit = {
+					is_core = SIK
+				}
+				random_neighbor_province = {
+					limit = {
+						is_colonial = yes
+						NOT = {is_core = SIK}
+					}
+					state_scope = {
+						any_owned = {
+							add_core = THIS
+							add_core = SIK
+						}
+					}
+				}
+			}
+			SIK = {
+				all_core = {
+					secede_province = SIK
+					remove_core = SIK
+				}
+			}
+			SIK = { civilized = yes }
+			THIS = { inherit = SIK }
+			SIK = { civilized = no }
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { revanchism = 0.75 }
+			}
+		}
+	}
+
+
+	return_from_exile = {
+		picture = form_union_nation
+		potential = {
+			government = exile_government
+		}
+		allow = {
+			all_core = {
+				OR = {
+					owner = { tag = THIS }
+					NOT = { continent = europe }
+				}
+			}
+		}
+		effect = {
+			random_owned = {
+				limit = {
+					THIS = {
+						vote_franschise = none_voting
+						OR = {
+							AND = {
+								ruling_party_ideology = reactionary
+								NOT = { year = 1880 }
+							}
+							ruling_party_ideology = conservative
+							ruling_party_ideology = socialist
+							ruling_party_ideology = liberal
+						}
+					}
+				}
+				THIS = {government = absolute_monarchy}
+			}
+
+			random_owned = {
+				limit = {
+					THIS = {
+						vote_franschise = none_voting
+						ruling_party_ideology = reactionary
+						year = 1880
+					}
+				}
+				THIS = {government = presidential_dictatorship}
+			}
+
+			random_owned = {
+				limit = {
+					THIS = {
+						vote_franschise = none_voting
+						ruling_party_ideology = fascist
+					}
+				}
+				THIS = {government = fascist_dictatorship}
+			}
+
+			random_owned = {
+				limit = {
+					THIS = {
+						vote_franschise = none_voting
+						ruling_party_ideology = communist
+					}
+				}
+				THIS = {government = proletarian_dictatorship}
+			}
+
+			random_owned = {
+				limit = {
+					THIS = {
+						vote_franschise = none_voting
+						ruling_party_ideology = anarcho_liberal
+					}
+				}
+				THIS = {government = bourgeois_dictatorship}
+			}
+
+			random_owned = {
+				limit = {
+					THIS = {
+						NOT = {vote_franschise = none_voting}
+					}
+				}
+				THIS = {government = prussian_constitutionalism}
+			}
+		}
+	}
+
+
+
+
+}

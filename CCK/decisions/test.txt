@@ -1,0 +1,49 @@
+political_decisions = {
+
+	test = {
+		potential = {
+			always = no
+			ai = no
+		}
+		allow = {
+
+		}
+		effect = {
+			#government = exile_government
+			enable_canal = 1
+			enable_canal = 2
+			any_country = {
+				limit = {
+					OR = {
+						#tag = ENG
+						#tag = PRU
+						#tag = NOR
+
+						#tag = FIN
+						#tag = RUS
+						tag = NET
+
+						#tag = BAD
+						#tag = HAN
+						#tag = OLD
+						#tag = FRM
+						#tag = WEI
+						#tag = WUR
+					}
+				}
+				#annex_to = THIS
+			}
+			any_pop = {
+				#militancy = -10
+			}
+
+			FRA = {
+				#add_accepted_culture = occitan
+			}
+			#use september save
+			#narrow down the culprit by annexing countries until it stops crashing
+			#crashes happen only on fresh launches, not if you reload from another save (crash dependent on ai/random behavior?)
+		}
+	}
+
+}
