@@ -7,6 +7,7 @@ political_decisions = {
 		}
 		allow = {}
 		effect = {
+			set_country_flag = is_bank
 			enable_canal = 3
 			enable_canal = 4
 			enable_canal = 5

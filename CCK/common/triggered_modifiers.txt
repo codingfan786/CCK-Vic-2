@@ -17,3 +17,11 @@ unciv_diplo = {
 	}
 	diplomatic_points_modifier = -100
 }
+
+world_bank = {
+	trigger = {
+		has_country_flag = is_bank
+	}
+	max_tariff = -1.5
+	min_tariff = -2
+}

@@ -198,3 +198,5 @@ colonial_ticker;Colonial Dispute;x
 colonial_ticker_desc;This CB is solely for being a ticker in colonies. It should not be taken in a peace deal.;x
 colonial_ticker_setup;This CB is solely for being a ticker in colonies. It should not be taken in a peace deal.;x
 colonial_ticker_short;Colonial ticker for $STATE$;x
+conquest_low_short;Conquer $RECIPIENT$;x
+conquest_low;Small conquest;x
